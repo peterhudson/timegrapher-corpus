@@ -1,0 +1,496 @@
+watch = "JLC Reverso replica (manual wind, unknown movement)"
+bph = 21600
+lift = 52
+notes = "Dial up, head only and level, fully wound at 01:48Z 2026-10-10 and left to run down for 15 h 51 min in 96 files of 10 min, lift 52°, Mic 8/16, AGC off, no gaps. Wind is hours since full wind at the start of each file. Rates on the sound card clock (21.3 ppm slow); the clock-corrected whole-take report is in calibrated/. tg reference on every 8th file (12 of 96): mean of tg-mod's per-step readings, lift 55° scaled to 52°, card clock; see the README. Photos: net +8.4 / +8.8 s over 15.73 / 15.79 h. No. 1900 after the run (about 16 h down, clamp, dial up, 52°): +3 to +7 s/d, 235–245°, 0.1 ms."
+
+[[recording]]
+file = "reverso_DUlevel_part01-01.flac"
+position = "DU"
+wind_h = 0.00
+reference = { rate = +18.30, amplitude = 259, beat_error = 0.31, source = "tg, file 01, lift 55° scaled to 52°, card clock; mean of readings (median +18.80)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-02.flac"
+position = "DU"
+wind_h = 0.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-03.flac"
+position = "DU"
+wind_h = 0.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-04.flac"
+position = "DU"
+wind_h = 0.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-05.flac"
+position = "DU"
+wind_h = 0.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-06.flac"
+position = "DU"
+wind_h = 0.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-07.flac"
+position = "DU"
+wind_h = 1.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-08.flac"
+position = "DU"
+wind_h = 1.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-09.flac"
+position = "DU"
+wind_h = 1.33
+reference = { rate = +19.41, amplitude = 257, beat_error = 0.28, source = "tg, file 09, lift 55° scaled to 52°, card clock; mean of readings (median +19.42)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-10.flac"
+position = "DU"
+wind_h = 1.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-11.flac"
+position = "DU"
+wind_h = 1.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-12.flac"
+position = "DU"
+wind_h = 1.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-13.flac"
+position = "DU"
+wind_h = 2.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-14.flac"
+position = "DU"
+wind_h = 2.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-15.flac"
+position = "DU"
+wind_h = 2.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-16.flac"
+position = "DU"
+wind_h = 2.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-17.flac"
+position = "DU"
+wind_h = 2.67
+reference = { rate = +19.68, amplitude = 257, beat_error = 0.21, source = "tg, file 17, lift 55° scaled to 52°, card clock; mean of readings (median +19.70)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-18.flac"
+position = "DU"
+wind_h = 2.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-19.flac"
+position = "DU"
+wind_h = 3.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-20.flac"
+position = "DU"
+wind_h = 3.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-21.flac"
+position = "DU"
+wind_h = 3.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-22.flac"
+position = "DU"
+wind_h = 3.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-23.flac"
+position = "DU"
+wind_h = 3.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-24.flac"
+position = "DU"
+wind_h = 3.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-25.flac"
+position = "DU"
+wind_h = 4.00
+reference = { rate = +19.07, amplitude = 258, beat_error = 0.33, source = "tg, file 25, lift 55° scaled to 52°, card clock; mean of readings (median +19.09)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-26.flac"
+position = "DU"
+wind_h = 4.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-27.flac"
+position = "DU"
+wind_h = 4.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-28.flac"
+position = "DU"
+wind_h = 4.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-29.flac"
+position = "DU"
+wind_h = 4.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-30.flac"
+position = "DU"
+wind_h = 4.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-31.flac"
+position = "DU"
+wind_h = 5.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-32.flac"
+position = "DU"
+wind_h = 5.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-33.flac"
+position = "DU"
+wind_h = 5.33
+reference = { rate = +18.78, amplitude = 252, beat_error = 0.32, source = "tg, file 33, lift 55° scaled to 52°, card clock; mean of readings (median +18.96)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-34.flac"
+position = "DU"
+wind_h = 5.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-35.flac"
+position = "DU"
+wind_h = 5.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-36.flac"
+position = "DU"
+wind_h = 5.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-37.flac"
+position = "DU"
+wind_h = 6.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-38.flac"
+position = "DU"
+wind_h = 6.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-39.flac"
+position = "DU"
+wind_h = 6.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-40.flac"
+position = "DU"
+wind_h = 6.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-41.flac"
+position = "DU"
+wind_h = 6.67
+reference = { rate = +18.92, amplitude = 252, beat_error = 0.39, source = "tg, file 41, lift 55° scaled to 52°, card clock; mean of readings (median +19.03)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-42.flac"
+position = "DU"
+wind_h = 6.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-43.flac"
+position = "DU"
+wind_h = 7.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-44.flac"
+position = "DU"
+wind_h = 7.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-45.flac"
+position = "DU"
+wind_h = 7.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-46.flac"
+position = "DU"
+wind_h = 7.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-47.flac"
+position = "DU"
+wind_h = 7.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-48.flac"
+position = "DU"
+wind_h = 7.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-49.flac"
+position = "DU"
+wind_h = 8.00
+reference = { rate = +17.71, amplitude = 251, beat_error = 0.47, source = "tg, file 49, lift 55° scaled to 52°, card clock; mean of readings (median +18.05)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-50.flac"
+position = "DU"
+wind_h = 8.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-51.flac"
+position = "DU"
+wind_h = 8.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-52.flac"
+position = "DU"
+wind_h = 8.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-53.flac"
+position = "DU"
+wind_h = 8.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-54.flac"
+position = "DU"
+wind_h = 8.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-55.flac"
+position = "DU"
+wind_h = 9.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-56.flac"
+position = "DU"
+wind_h = 9.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-57.flac"
+position = "DU"
+wind_h = 9.33
+reference = { rate = +11.70, amplitude = 240, beat_error = 0.48, source = "tg, file 57, lift 55° scaled to 52°, card clock; mean of readings (median +11.30)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-58.flac"
+position = "DU"
+wind_h = 9.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-59.flac"
+position = "DU"
+wind_h = 9.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-60.flac"
+position = "DU"
+wind_h = 9.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-61.flac"
+position = "DU"
+wind_h = 10.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-62.flac"
+position = "DU"
+wind_h = 10.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-63.flac"
+position = "DU"
+wind_h = 10.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-64.flac"
+position = "DU"
+wind_h = 10.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-65.flac"
+position = "DU"
+wind_h = 10.67
+reference = { rate = +10.99, amplitude = 242, beat_error = 0.42, source = "tg, file 65, lift 55° scaled to 52°, card clock; mean of readings (median +10.79)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-66.flac"
+position = "DU"
+wind_h = 10.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-67.flac"
+position = "DU"
+wind_h = 11.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-68.flac"
+position = "DU"
+wind_h = 11.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-69.flac"
+position = "DU"
+wind_h = 11.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-70.flac"
+position = "DU"
+wind_h = 11.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-71.flac"
+position = "DU"
+wind_h = 11.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-72.flac"
+position = "DU"
+wind_h = 11.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-73.flac"
+position = "DU"
+wind_h = 12.00
+reference = { rate = +11.85, amplitude = 243, beat_error = 0.42, source = "tg, file 73, lift 55° scaled to 52°, card clock; mean of readings (median +11.93)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-74.flac"
+position = "DU"
+wind_h = 12.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-75.flac"
+position = "DU"
+wind_h = 12.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-76.flac"
+position = "DU"
+wind_h = 12.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-77.flac"
+position = "DU"
+wind_h = 12.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-78.flac"
+position = "DU"
+wind_h = 12.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-79.flac"
+position = "DU"
+wind_h = 13.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-80.flac"
+position = "DU"
+wind_h = 13.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-81.flac"
+position = "DU"
+wind_h = 13.33
+reference = { rate = +6.54, amplitude = 232, beat_error = 0.44, source = "tg, file 81, lift 55° scaled to 52°, card clock; mean of readings (median +6.30)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-82.flac"
+position = "DU"
+wind_h = 13.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-83.flac"
+position = "DU"
+wind_h = 13.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-84.flac"
+position = "DU"
+wind_h = 13.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-85.flac"
+position = "DU"
+wind_h = 14.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-86.flac"
+position = "DU"
+wind_h = 14.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-87.flac"
+position = "DU"
+wind_h = 14.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-88.flac"
+position = "DU"
+wind_h = 14.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-89.flac"
+position = "DU"
+wind_h = 14.67
+reference = { rate = +7.39, amplitude = 233, beat_error = 0.43, source = "tg, file 89, lift 55° scaled to 52°, card clock; mean of readings (median +7.29)" }
+
+[[recording]]
+file = "reverso_DUlevel_part01-90.flac"
+position = "DU"
+wind_h = 14.83
+
+[[recording]]
+file = "reverso_DUlevel_part01-91.flac"
+position = "DU"
+wind_h = 15.00
+
+[[recording]]
+file = "reverso_DUlevel_part01-92.flac"
+position = "DU"
+wind_h = 15.17
+
+[[recording]]
+file = "reverso_DUlevel_part01-93.flac"
+position = "DU"
+wind_h = 15.33
+
+[[recording]]
+file = "reverso_DUlevel_part01-94.flac"
+position = "DU"
+wind_h = 15.50
+
+[[recording]]
+file = "reverso_DUlevel_part01-95.flac"
+position = "DU"
+wind_h = 15.67
+
+[[recording]]
+file = "reverso_DUlevel_part01-96.flac"
+position = "DU"
+wind_h = 15.83
