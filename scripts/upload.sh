@@ -4,13 +4,15 @@
 #
 #   scripts/upload.sh AUDIO_DIR TAKE [TIER]
 #
+# TIER is smoke, referenced or paired; it defaults to the take's tier in
+# corpus.json, or referenced for a new take.
 # AUDIO_DIR/TAKE/*.flac are uploaded to the release tagged TAKE (created if
 # missing); files already attached are skipped. corpus.json gets the take's
 # entry with each file's size and SHA-256. Commit corpus.json and
 # takes/TAKE/ afterwards. Needs gh with push access to this repository.
 set -euo pipefail
 here="$(cd "$(dirname "$0")/.." && pwd)"
-audio="$1"; take="$2"; tier="${3:-referenced}"
+audio="$1"; take="$2"; tier="${3:-}"
 [ -d "$here/takes/$take" ] || { echo "takes/$take/ is missing: add its metadata first" >&2; exit 1; }
 shopt -s nullglob
 files=("$audio/$take"/*.flac)
@@ -37,6 +39,8 @@ def sha(p):
             h.update(b)
     return h.hexdigest()
 corpus = json.load(open(path)) if os.path.exists(path) else {"schema": 1, "takes": []}
+old = {t["id"]: t for t in corpus["takes"]}.get(take, {})
+tier = tier or old.get("tier", "referenced")
 entry = {"id": take, "tier": tier, "release": take,
          "files": [{"name": os.path.basename(f), "bytes": os.path.getsize(f), "sha256": sha(f)}
                    for f in sorted(files)]}
