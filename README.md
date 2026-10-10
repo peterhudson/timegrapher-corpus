@@ -18,6 +18,17 @@ against an independent reading.
 - `scripts/fetch.py DEST` downloads and checks the audio, needing nothing
   but Python. `scripts/upload.sh` is for maintainers.
 
+## How the takes were recorded
+
+The first takes are one person's bench recordings, 2026-10-08 to 10, with a
+C-Media USB timegrapher pickup at 48 kHz, 16-bit mono, automatic gain off
+(the mic level is in each take's notes). Takes marked DU on the grey USB
+stand are dial up but tilted by its cradle, so their rates differ from a
+level reading; the Yacht-Master takes were head only and level, and the
+overnight Reverso take was level. Rates in the tg tables are on the sound
+card's own clock unless a table says otherwise; `clocklog.txt` lets you
+correct for it. `silence_empty_stand` is the pickup with no watch on it.
+
 ## Tiers
 
 - **smoke**: runs through the engine; catches crashes and odd behaviour.

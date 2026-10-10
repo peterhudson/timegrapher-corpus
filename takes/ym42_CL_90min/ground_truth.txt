@@ -1,0 +1,2 @@
+2026-10-09T17:32:40.1Z (photo): screen 10:32:40.1 PDT, watch 10:32:45 (seconds hand on 9 index) -> watch +4.9 +/- 0.3 s. Photo taken in a holder just before moving to the stand crown left.
+2026-10-09T19:20:21.8Z (photo): screen 12:20:21.8 PDT, watch 12:20:30.2 (seconds hand on 6 index) -> watch +8.4 +/- 0.4 s. Net +3.5 +/- 0.5 s over 6461.7 s = +47 +/- 7 s/d.

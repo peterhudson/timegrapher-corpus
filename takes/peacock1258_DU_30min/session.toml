@@ -1,0 +1,13 @@
+watch = "Peacock SL1258 (bench watch 4)"
+calibre = "SL1258"
+bph = 28800
+lift = 52
+notes = "Dial up, 30 min, fully wound. Does not hack, so the seconds hand was not synced to the clock. Lift 52° as the owner's bench timegrapher and tg (tg's 55° amplitude scaled by 52/55). Rates on the sound card clock, as tg reads them; the clock-corrected report is in calibrated/. Beat error is from the unlock as tg, with the drop value beside it."
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+
+[[recording]]
+file = "."
+position = "DU"
+wind_h = 0
+reference = { rate = 16.97, amplitude = 309, beat_error = 0.14, source = "tg, same file, lift 52° (scaled from 55°), card clock" }
+

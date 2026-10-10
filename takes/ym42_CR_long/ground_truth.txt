@@ -1,0 +1,2 @@
+2026-10-09T19:33:55.1Z start (the owner's reading of a photo, on the stand, recording running): computer 12:33:55.1 PDT, watch 12:34:05 -> watch +9.9 s (seconds read to the whole second by the owner, so +/- ~0.5 s)
+2026-10-09T21:58:56.2Z end (the owner's photo reading, on the stand, recording running): computer 14:58:56.2 PDT, watch 14:59:04.8 -> +8.6 s

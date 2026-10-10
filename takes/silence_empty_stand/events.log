@@ -1,0 +1,4 @@
+2026-10-10T17:40:58.519075431Z start silence_mic10_part01 (300s left) mixer: Capture 10 [62%], AGC [off]
+2026-10-10T17:45:58.892706193Z arecord exit 0 for silence_mic10_part01
+2026-10-10T17:45:58.939577439Z start silence_mic8_part01 (300s left) mixer: Capture 8 [50%], AGC [off]
+2026-10-10T17:50:59.332089444Z arecord exit 0 for silence_mic8_part01

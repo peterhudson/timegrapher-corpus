@@ -1,0 +1,11 @@
+watch = "ETA 2824-2 clone (bench watch 5), bare movement"
+calibre = "2824-2"
+bph = 28800
+lift = 50
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+notes = "Dial up, 10 min, bare movement, mic level 4/16 (clean, no clipping). Lift 50° as tg (scaled from 55°). Rate on the sound card clock, as tg reads it; the clock-corrected report is in calibrated/. Beat error is from the unlock as tg, with the drop value beside it."
+
+[[recording]]
+file = "eta2824_bare_DU_g4_48000.flac"
+position = "DU"
+reference = { rate = 10.39, amplitude = 276, beat_error = 0.25, source = "tg, same file, lift 50° (scaled from 55°), card clock" }

@@ -1,0 +1,11 @@
+watch = "Aquanaut-style case, Dandong clone of Patek 324 (bench watch 2)"
+calibre = "324 (clone)"
+bph = 28800
+lift = 52
+notes = "Does not hack, so the seconds hand was not synced to the clock. Reference is tg on the same file at 52°; both rates are on the sound card clock (uncorrected) so they compare like for like. Beat error is from the unlock as tg, with the drop value beside it."
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+
+[[recording]]
+file = "."
+position = "DU"
+reference = { rate = -4.98, amplitude = 242, beat_error = 0.41, source = "tg, same file, lift 52°, card clock" }

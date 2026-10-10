@@ -1,0 +1,3 @@
+2026-10-09T15:32:08.065719289Z start ym42_CD_part01 (5400s left) mixer: Capture 10 [62%], AGC [off]
+2026-10-09T16:42:06.913309097Z stopped manually: mic fell over (the owner, 16:41:39Z message)
+2026-10-09T16:40:47Z mic fell over (disturbance from 519 s into segment 07); segment 07 trimmed to its first 515 s (ends 16:40:43Z). Original kept locally in untrimmed/.

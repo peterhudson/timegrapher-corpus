@@ -1,0 +1,76 @@
+watch = "Rolex Yacht-Master 42"
+calibre = "3235"
+bph = 28800
+lift = 55
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+notes = "Crown up, 2 h 17 min in 14 ten-minute files (stopped early by a USB reset). Lift 55° as tg. Rates on the sound card clock, as tg reads them; the clock-corrected whole-take report is in calibrated/. Beat error is from the unlock as tg, with the drop value beside it."
+
+[[recording]]
+file = "ym42_CU_48000-01.flac"
+position = "CU"
+reference = { rate = -15.53, amplitude = 221, beat_error = 0.28, source = "tg, segment -01, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-02.flac"
+position = "CU"
+reference = { rate = -16.69, amplitude = 222, beat_error = 0.23, source = "tg, segment -02, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-03.flac"
+position = "CU"
+reference = { rate = -16.75, amplitude = 225, beat_error = 0.24, source = "tg, segment -03, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-04.flac"
+position = "CU"
+reference = { rate = -14.50, amplitude = 224, beat_error = 0.21, source = "tg, segment -04, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-05.flac"
+position = "CU"
+reference = { rate = -12.99, amplitude = 225, beat_error = 0.21, source = "tg, segment -05, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-06.flac"
+position = "CU"
+reference = { rate = -11.76, amplitude = 226, beat_error = 0.21, source = "tg, segment -06, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-07.flac"
+position = "CU"
+reference = { rate = -11.56, amplitude = 227, beat_error = 0.21, source = "tg, segment -07, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-08.flac"
+position = "CU"
+reference = { rate = -11.62, amplitude = 226, beat_error = 0.22, source = "tg, segment -08, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-09.flac"
+position = "CU"
+reference = { rate = -10.98, amplitude = 227, beat_error = 0.22, source = "tg, segment -09, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-10.flac"
+position = "CU"
+reference = { rate = -11.53, amplitude = 226, beat_error = 0.23, source = "tg, segment -10, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-11.flac"
+position = "CU"
+reference = { rate = -11.25, amplitude = 226, beat_error = 0.23, source = "tg, segment -11, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-12.flac"
+position = "CU"
+reference = { rate = -9.95, amplitude = 227, beat_error = 0.23, source = "tg, segment -12, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-13.flac"
+position = "CU"
+reference = { rate = -10.41, amplitude = 227, beat_error = 0.24, source = "tg, segment -13, lift 55°, card clock" }
+
+[[recording]]
+file = "ym42_CU_48000-14.flac"
+position = "CU"
+reference = { rate = -10.99, amplitude = 226, beat_error = 0.24, source = "tg, segment -14, lift 55°, card clock" }

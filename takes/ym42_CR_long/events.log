@@ -1,0 +1,7 @@
+2026-10-09T19:33:07.148442585Z start ym42_CR_part01 (5400s left) mixer: Capture 10 [62%], AGC [off]
+2026-10-09T21:24:28.192777093Z arecord exit 0 for ym42_CR_part01
+2026-10-09T21:24:30.713940105Z watchdog wrote end_utc.txt for part a
+2026-10-09T21:24:31.159106907Z chain: continuing as ym42_CR_b (the owner asked to keep running until the owner was back)
+2026-10-09T21:24:31.208746555Z start ym42_CR_b_part01 (28800s left) mixer: Capture 10 [62%], AGC [off]
+arecord failed with exit status 1.
+2026-10-09T22:00:48.186136590Z stopped manually after the owner's end photo (watch +8.6 s at 21:58:56.2Z)

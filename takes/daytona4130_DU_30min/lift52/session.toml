@@ -1,0 +1,11 @@
+watch = "Daytona case, Dandong 4130 clone with genuine balance (bench watch 1)"
+calibre = "4130 (clone)"
+bph = 28800
+lift = 52
+notes = "Lift angle for the 4130 not settled; reports made at 52° and 55°. Reference is tg on the same file at the same lift angle; Beat error is from the unlock as tg, with the drop value beside it."
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+
+[[recording]]
+file = ".."
+position = "DU"
+reference = { rate = 6.22, amplitude = 306, beat_error = 0.87, source = "tg, same file, lift 52°, card clock" }
