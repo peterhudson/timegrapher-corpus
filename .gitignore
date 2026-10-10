@@ -1,0 +1,4 @@
+# Audio lives in release assets, never in git.
+*.flac
+*.wav
+*.part
