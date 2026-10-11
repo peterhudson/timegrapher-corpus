@@ -4,12 +4,14 @@
 #
 #   scripts/upload.sh AUDIO_DIR TAKE [TIER]
 #
-# TIER is smoke, referenced or paired; it defaults to the take's tier in
+# TIER is smoke, referenced, paired or holdout; it defaults to the take's tier in
 # corpus.json, or referenced for a new take.
 # AUDIO_DIR/TAKE/*.flac are uploaded to the release tagged TAKE (created if
 # missing); files already attached are skipped. corpus.json gets the take's
 # entry with each file's size and SHA-256. Commit corpus.json and
-# takes/TAKE/ afterwards. Needs gh with push access to this repository.
+# takes/TAKE/ afterwards. For a contributed take, run
+# scripts/holdout_rule.py AUDIO_DIR/TAKE first and pass holdout when it
+# says so. Needs gh with push access to this repository.
 set -euo pipefail
 here="$(cd "$(dirname "$0")/.." && pwd)"
 audio="$1"; take="$2"; tier="${3:-}"

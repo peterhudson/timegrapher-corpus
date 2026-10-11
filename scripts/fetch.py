@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """Download the corpus audio from this repository's releases and check it.
 
-    python3 scripts/fetch.py DEST [TAKE ...]
+    python3 scripts/fetch.py [--holdout] DEST [TAKE ...]
 
 Each take's audio is attached to the release tagged with the take's name.
 Files land in DEST/<take>/<file>, next to a copy of the take's metadata, so
 `timegrapher regress DEST` sees the same layout as the private recordings.
 A file already present with the right SHA-256 is not downloaded again.
+Holdout takes are left out unless --holdout is given, and then only they
+are fetched, so a development run never has their metadata or audio to read
+(see "The holdout seal" in README.md). Naming a take overrides neither.
 Standard library only, so it runs on any CI runner with no secret.
 """
 import hashlib
@@ -29,16 +32,21 @@ def sha256(path):
 
 
 def main(argv):
-    if len(argv) < 2:
+    args = argv[1:]
+    holdout = "--holdout" in args
+    args = [a for a in args if a != "--holdout"]
+    if not args:
         print(__doc__.strip(), file=sys.stderr)
         return 2
-    dest, wanted = argv[1], set(argv[2:])
+    dest, wanted = args[0], set(args[1:])
     with open(os.path.join(HERE, "corpus.json")) as f:
         corpus = json.load(f)
     bad = 0
     for take in corpus["takes"]:
         name = take["id"]
         if wanted and name not in wanted:
+            continue
+        if (take["tier"] == "holdout") != holdout:
             continue
         out = os.path.join(dest, name)
         shutil.copytree(os.path.join(HERE, "takes", name), out, dirs_exist_ok=True)
