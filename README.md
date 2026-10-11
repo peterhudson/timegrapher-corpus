@@ -44,12 +44,15 @@ cannot show whether the engine works on recordings it has not seen. Holdout
 takes are kept apart for that:
 
 - **What goes in.** New recordings only: confirmed faults recorded before
-  and after repair, and a share of contributed recordings. A fault take's
-  `session.toml` names the fault with
-  `fault = { id = "...", side = "...", source = "bench: ..." }`, where `id`
-  is one of timegrapher's fault ids, `side` (Tick, Tock or both) is
-  optional, and `source` says how it was confirmed. A take with no `fault`
-  is healthy. A fault take may have no tg reference.
+  and after repair, and a share of contributed recordings. None of the
+  takes above is holdout: all were used for tuning.
+- **How a fault is named.** In a holdout take's `session.toml`, each
+  `[[recording]]` entry may carry
+  `fault = { id = "...", side = "...", source = "bench: ..." }`. `id` is one
+  of timegrapher's fault ids, `side` (Tick, Tock or both) is optional, and
+  `source` says how the fault was confirmed. An entry with no `fault` is
+  healthy. An entry with a `fault` may leave out `reference`, since tg
+  cannot judge a fault.
 - **How contributed recordings are assigned.** At import, before anyone
   measures it, `scripts/holdout_rule.py` hashes the take's FLAC file whose
   name sorts first. The take is holdout when the first byte of that SHA-256
