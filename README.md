@@ -34,6 +34,41 @@ correct for it. `silence_empty_stand` is the pickup with no watch on it.
 - **smoke**: runs through the engine; catches crashes and odd behaviour.
 - **referenced**: tg read the same file; numbers are checked against it.
 - **paired**: tg plus a commercial timegrapher read at the same time.
+- **holdout**: recordings the engine is never tuned on, read only to check
+  it at announced milestones (below).
+
+## The holdout seal
+
+Every take above the holdout tier has been used to tune the engine, so it
+cannot show whether the engine works on recordings it has not seen. Holdout
+takes are kept apart for that:
+
+- **What goes in.** New recordings only: confirmed faults recorded before
+  and after repair, and a share of contributed recordings. A fault take's
+  `session.toml` names the fault with
+  `fault = { id = "...", side = "...", source = "bench: ..." }`, where `id`
+  is one of timegrapher's fault ids, `side` (Tick, Tock or both) is
+  optional, and `source` says how it was confirmed. A take with no `fault`
+  is healthy. A fault take may have no tg reference.
+- **How contributed recordings are assigned.** At import, before anyone
+  measures it, `scripts/holdout_rule.py` hashes the take's FLAC file whose
+  name sorts first. The take is holdout when the first byte of that SHA-256
+  is below `0x40` (one in four), otherwise development. A recording sent in
+  with a named fault follows the same rule. The hash is in `corpus.json`, so
+  anyone can check the assignment.
+- **How they are read.** `scripts/fetch.py` leaves holdout takes out unless
+  given `--holdout`, and plain `timegrapher regress` skips them. They are
+  measured only by `regress --holdout`, in a manual milestone job that never
+  runs on pull requests or pushes and prints pass and fail counts only: no
+  take names, file names or numbers.
+- **When numbers are shown.** Only at an announced milestone run. Each
+  holdout take's README records that run: the engine's git hash, the date
+  and the numbers. Between milestones, nobody posts holdout numbers in an
+  issue, pull request or discussion, and no engine limit is changed because
+  of a holdout result.
+
+The audio is public under CC0 like the rest, so the seal is a convention,
+not access control. Please keep to it if you work on the engine.
 
 ## Licence
 
@@ -44,6 +79,9 @@ is removed on request, though CC0 itself cannot be withdrawn.
 
 ## Contributing
 
-Make a bundle with `timegrapher report --kind contribution` and attach it to
-an issue here, with the corpus box ticked. A maintainer checks the SHA-256,
-listens for speech, runs tg, and opens the pull request.
+Make a bundle with `timegrapher report RECORDING --listened-back --cc0` and
+attach it to a *Contribute a recording* issue on
+[timegrapher](https://github.com/peterhudson/timegrapher/issues/new/choose).
+A maintainer checks the SHA-256 and listens for speech. The maintainer then
+assigns the take to holdout or development by the rule above, runs tg on a
+development take, and opens the pull request.
