@@ -6,36 +6,36 @@ wheels = { "escape wheel (20 teeth)" = 5.0 }
 notes = "Crown down, 70 min in 7 files (the mic fell over 519 s into file 07, which is trimmed to its first 515 s). Lift 55° as tg. Rates on the sound card clock, as tg reads them; the clock-corrected whole-take report is in calibrated/. Beat error is from the unlock as tg, with the drop value beside it."
 
 [[recording]]
-file = "ym42_CD_part01-01.flac"
+file = "take_part01-001.flac"
 position = "CD"
 reference = { rate = +24.49, amplitude = 225, beat_error = 0.20, source = "tg, segment 01, lift 55°, card clock" }
 
 [[recording]]
-file = "ym42_CD_part01-02.flac"
+file = "take_part01-002.flac"
 position = "CD"
 reference = { rate = +29.14, amplitude = 231, beat_error = 0.24, source = "tg, segment 02, lift 55°, card clock" }
 
 [[recording]]
-file = "ym42_CD_part01-03.flac"
+file = "take_part01-003.flac"
 position = "CD"
 reference = { rate = +38.83, amplitude = 234, beat_error = 0.26, source = "tg, segment 03, lift 55°, card clock" }
 
 [[recording]]
-file = "ym42_CD_part01-04.flac"
+file = "take_part01-004.flac"
 position = "CD"
 reference = { rate = +41.49, amplitude = 237, beat_error = 0.29, source = "tg, segment 04, lift 55°, card clock" }
 
 [[recording]]
-file = "ym42_CD_part01-05.flac"
+file = "take_part01-005.flac"
 position = "CD"
 reference = { rate = +42.82, amplitude = 235, beat_error = 0.22, source = "tg, segment 05, lift 55°, card clock" }
 
 [[recording]]
-file = "ym42_CD_part01-06.flac"
+file = "take_part01-006.flac"
 position = "CD"
 reference = { rate = +44.43, amplitude = 238, beat_error = 0.21, source = "tg, segment 06, lift 55°, card clock" }
 
 [[recording]]
-file = "ym42_CD_part01-07.flac"
+file = "take_part01-007.flac"
 position = "CD"
 reference = { rate = +41.47, amplitude = 236, beat_error = 0.22, source = "tg, segment 07, lift 55°, card clock" }

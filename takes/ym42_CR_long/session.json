@@ -1,0 +1,76 @@
+{
+  "watch": "Rolex Yacht-Master 42",
+  "position": "CR",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (legacy take, brought to the standard layout 2026-10)",
+  "started_utc": "2026-10-09T19:33:07.212Z",
+  "ended_utc": "2026-10-09T22:00:47.124Z",
+  "duration_s": 7575.750541666666,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac",
+    "take_part01-003.flac",
+    "take_part01-004.flac",
+    "take_part01-005.flac",
+    "take_part01-006.flac",
+    "take_part01-007.flac",
+    "take_part01-008.flac",
+    "take_part01-009.flac",
+    "take_part02-001.flac",
+    "take_part02-002.flac",
+    "take_part02-003.flac",
+    "take_part02-004.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-09T19:33:07.148Z",
+      "text": "start ym42_CR_part01 (5400s left) mixer: Capture 10 [62%], AGC [off]"
+    },
+    {
+      "audio_s": 5400.704,
+      "utc": "2026-10-09T21:24:28.192Z",
+      "text": "arecord exit 0 for ym42_CR_part01"
+    },
+    {
+      "audio_s": 5403.225,
+      "utc": "2026-10-09T21:24:30.713Z",
+      "text": "watchdog wrote end_utc.txt for part a"
+    },
+    {
+      "audio_s": 5403.67,
+      "utc": "2026-10-09T21:24:31.159Z",
+      "text": "chain: continuing as ym42_CR_b (the owner asked to keep running until the owner was back)"
+    },
+    {
+      "audio_s": 5403.72,
+      "utc": "2026-10-09T21:24:31.208Z",
+      "text": "start ym42_CR_b_part01 (28800s left) mixer: Capture 10 [62%], AGC [off]"
+    },
+    {
+      "audio_s": 7575.751,
+      "utc": "2026-10-09T22:00:48.186Z",
+      "text": "stopped manually after the owner's end photo (watch +8.6 s at 21:58:56.2Z)"
+    }
+  ],
+  "breaks": [
+    {
+      "audio_s": 1559.37575,
+      "frame": 74850036,
+      "segment": "take_part01-003.flac",
+      "utc": "2026-10-09T20:20:26.558Z",
+      "gap_s": 1279.936
+    },
+    {
+      "audio_s": 5400.0,
+      "frame": 259200000,
+      "segment": "take_part02-001.flac",
+      "utc": "2026-10-09T21:24:31.330Z",
+      "gap_s": 3.883
+    }
+  ],
+  "result": null
+}

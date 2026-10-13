@@ -10,7 +10,7 @@ position = "DU"
 reference = { rate = 3.8, amplitude = 286, beat_error = 0.15, source = "tg, same file, lift 55°, card clock" }
 
 [[recording]]
-file = "dd3235_DU_48000-01.flac"
+file = "take_part01-001.flac"
 position = "DU"
 reference = { rate = 0.6, amplitude = 280, beat_error = 0.19, source = "tg, segment -01, lift 55°, card clock" }
 

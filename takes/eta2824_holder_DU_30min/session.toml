@@ -11,16 +11,16 @@ position = "DU"
 reference = { rate = 11.29, amplitude = 297, beat_error = 0.08, source = "tg, same file, lift 50° (scaled from 55°), card clock" }
 
 [[recording]]
-file = "eta2824_holder_DU_48000-01.flac"
+file = "take_part01-001.flac"
 position = "DU"
 reference = { rate = 11.42, amplitude = 294, beat_error = 0.07, source = "tg, segment -01, lift 50°, card clock" }
 
 [[recording]]
-file = "eta2824_holder_DU_48000-02.flac"
+file = "take_part01-002.flac"
 position = "DU"
 reference = { rate = 11.33, amplitude = 300, beat_error = 0.09, source = "tg, segment -02, lift 50°, card clock" }
 
 [[recording]]
-file = "eta2824_holder_DU_48000-03.flac"
+file = "take_part01-003.flac"
 position = "DU"
 reference = { rate = 11.10, amplitude = 296, beat_error = 0.06, source = "tg, segment -03, lift 50°, card clock" }

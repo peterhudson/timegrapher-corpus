@@ -6,75 +6,75 @@ wheels = { "escape wheel (20 teeth)" = 5.0 }
 notes = "Crown right (12 up), part a 01-09 and part b 01-04, lift 55° as tg. Rates on the sound card clock, as tg reads them. Reference rate is tg's mean of its readings, like for like with the fitted rate; tg's median is in the source, to compare with the 10 s median. part01-03 spans the workstation's suspend (its audio jumps 1,283 s at 357 s), so it is measured as two readings, before and after the jump; tg's reference is for the whole file. No clock-corrected report: the single clock log spans the suspend."
 
 [[recording]]
-file = "ym42_CR_part01-01.flac"
+file = "take_part01-001.flac"
 position = "CR"
 reference = { rate = -18.73, amplitude = 228, beat_error = 0.22, source = "tg, part01-01, lift 55°, card clock; mean of readings (median -21.19)" }
 
 [[recording]]
-file = "ym42_CR_part01-02.flac"
+file = "take_part01-002.flac"
 position = "CR"
 reference = { rate = -11.60, amplitude = 231, beat_error = 0.22, source = "tg, part01-02, lift 55°, card clock; mean of readings (median -8.71)" }
 
 [[recording]]
-file = "ym42_CR_part01-03.flac"
+file = "take_part01-003.flac"
 position = "CR"
 measure_s = 337
 notes = "Before the suspend: 20 to 357 s."
 reference = { rate = -11.70, amplitude = 230, beat_error = 0.24, source = "tg, part01-03, lift 55°, card clock; mean of readings (median -10.52)" }
 
 [[recording]]
-file = "ym42_CR_part01-03.flac"
+file = "take_part01-003.flac"
 position = "CR"
 settle_s = 377
 notes = "After the suspend: from 377 s (20 s past the jump at 357 s)."
 reference = { rate = -11.70, amplitude = 230, beat_error = 0.24, source = "tg, part01-03, lift 55°, card clock; mean of readings (median -10.52)" }
 
 [[recording]]
-file = "ym42_CR_part01-04.flac"
+file = "take_part01-004.flac"
 position = "CR"
 reference = { rate = -10.51, amplitude = 230, beat_error = 0.24, source = "tg, part01-04, lift 55°, card clock; mean of readings (median -10.50)" }
 
 [[recording]]
-file = "ym42_CR_part01-05.flac"
+file = "take_part01-005.flac"
 position = "CR"
 reference = { rate = -12.84, amplitude = 229, beat_error = 0.24, source = "tg, part01-05, lift 55°, card clock; mean of readings (median -13.49)" }
 
 [[recording]]
-file = "ym42_CR_part01-06.flac"
+file = "take_part01-006.flac"
 position = "CR"
 reference = { rate = -10.76, amplitude = 231, beat_error = 0.24, source = "tg, part01-06, lift 55°, card clock; mean of readings (median -10.28)" }
 
 [[recording]]
-file = "ym42_CR_part01-07.flac"
+file = "take_part01-007.flac"
 position = "CR"
 reference = { rate = -11.95, amplitude = 230, beat_error = 0.23, source = "tg, part01-07, lift 55°, card clock; mean of readings (median -11.63)" }
 
 [[recording]]
-file = "ym42_CR_part01-08.flac"
+file = "take_part01-008.flac"
 position = "CR"
 reference = { rate = -10.95, amplitude = 231, beat_error = 0.24, source = "tg, part01-08, lift 55°, card clock; mean of readings (median -9.83)" }
 
 [[recording]]
-file = "ym42_CR_part01-09.flac"
+file = "take_part01-009.flac"
 position = "CR"
 reference = { rate = -10.47, amplitude = 231, beat_error = 0.24, source = "tg, part01-09, lift 55°, card clock; mean of readings (median -9.67)" }
 
 [[recording]]
-file = "ym42_CR_b_part01-01.flac"
+file = "take_part02-001.flac"
 position = "CR"
 reference = { rate = -10.09, amplitude = 230, beat_error = 0.23, source = "tg, b_part01-01, lift 55°, card clock; mean of readings (median -9.31)" }
 
 [[recording]]
-file = "ym42_CR_b_part01-02.flac"
+file = "take_part02-002.flac"
 position = "CR"
 reference = { rate = -10.23, amplitude = 230, beat_error = 0.22, source = "tg, b_part01-02, lift 55°, card clock; mean of readings (median -10.32)" }
 
 [[recording]]
-file = "ym42_CR_b_part01-03.flac"
+file = "take_part02-003.flac"
 position = "CR"
 reference = { rate = -9.34, amplitude = 231, beat_error = 0.24, source = "tg, b_part01-03, lift 55°, card clock; mean of readings (median -6.56)" }
 
 [[recording]]
-file = "ym42_CR_b_part01-04.flac"
+file = "take_part02-004.flac"
 position = "CR"
 reference = { rate = -8.06, amplitude = 232, beat_error = 0.23, source = "tg, b_part01-04, lift 55°, card clock; mean of readings (median -6.29)" }

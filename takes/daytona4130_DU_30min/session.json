@@ -1,0 +1,19 @@
+{
+  "watch": "Daytona case, Dandong 4130 clone with genuine balance (bench watch 1)",
+  "position": "DU",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (legacy take, brought to the standard layout 2026-10)",
+  "started_utc": "2026-10-08T21:20:44.289Z",
+  "ended_utc": "2026-10-08T21:50:44.296Z",
+  "duration_s": 1800.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac",
+    "take_part01-003.flac"
+  ],
+  "notes": [],
+  "result": null
+}

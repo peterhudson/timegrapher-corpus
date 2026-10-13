@@ -4,66 +4,66 @@ lift = 52
 notes = "Dial up (tilted), about 2 h in 13 files of 10 min, lift 52°, the first 21,600 vph take. Position: tilted, not flat. The strap ran under the grey stand's cradle, so dial up here is dial up tilted toward crown down (the Yacht-Master takes were head only and level). the owner's check: held as on this stand +16 to +17 s/d at 243°; held flat +6 s/d at 252°. Rates on the sound card clock, as tg reads them; the clock-corrected whole-take report is in calibrated/. Reference rate is tg's mean of its readings, with its median in the source. tg read at lift 55° with amplitude scaled by 52/55. Some clipping from file 02 on (Mic 10/16), which may shift the unlock edge and so the beat error from the unlock."
 
 [[recording]]
-file = "reverso_DU_part01-01.flac"
+file = "take_part01-001.flac"
 position = "DU"
 reference = { rate = +22.00, amplitude = 238, beat_error = 0.33, source = "tg, file 01, lift 55° scaled to 52°, card clock; mean of readings (median +22.60)" }
 
 [[recording]]
-file = "reverso_DU_part01-02.flac"
+file = "take_part01-002.flac"
 position = "DU"
 reference = { rate = +23.60, amplitude = 245, beat_error = 0.30, source = "tg, file 02, lift 55° scaled to 52°, card clock; mean of readings (median +23.69)" }
 
 [[recording]]
-file = "reverso_DU_part01-03.flac"
+file = "take_part01-003.flac"
 position = "DU"
 reference = { rate = +22.71, amplitude = 251, beat_error = 0.31, source = "tg, file 03, lift 55° scaled to 52°, card clock; mean of readings (median +22.74)" }
 
 [[recording]]
-file = "reverso_DU_part01-04.flac"
+file = "take_part01-004.flac"
 position = "DU"
 reference = { rate = +22.50, amplitude = 255, beat_error = 0.34, source = "tg, file 04, lift 55° scaled to 52°, card clock; mean of readings (median +22.51)" }
 
 [[recording]]
-file = "reverso_DU_part01-05.flac"
+file = "take_part01-005.flac"
 position = "DU"
 reference = { rate = +22.61, amplitude = 258, beat_error = 0.33, source = "tg, file 05, lift 55° scaled to 52°, card clock; mean of readings (median +22.53)" }
 
 [[recording]]
-file = "reverso_DU_part01-06.flac"
+file = "take_part01-006.flac"
 position = "DU"
 reference = { rate = +22.50, amplitude = 252, beat_error = 0.35, source = "tg, file 06, lift 55° scaled to 52°, card clock; mean of readings (median +22.43)" }
 
 [[recording]]
-file = "reverso_DU_part01-07.flac"
+file = "take_part01-007.flac"
 position = "DU"
 reference = { rate = +21.60, amplitude = 250, beat_error = 0.29, source = "tg, file 07, lift 55° scaled to 52°, card clock; mean of readings (median +21.59)" }
 
 [[recording]]
-file = "reverso_DU_part01-08.flac"
+file = "take_part01-008.flac"
 position = "DU"
 reference = { rate = +20.82, amplitude = 252, beat_error = 0.29, source = "tg, file 08, lift 55° scaled to 52°, card clock; mean of readings (median +20.84)" }
 
 [[recording]]
-file = "reverso_DU_part01-09.flac"
+file = "take_part01-009.flac"
 position = "DU"
 reference = { rate = +20.49, amplitude = 249, beat_error = 0.29, source = "tg, file 09, lift 55° scaled to 52°, card clock; mean of readings (median +20.56)" }
 
 [[recording]]
-file = "reverso_DU_part01-10.flac"
+file = "take_part01-010.flac"
 position = "DU"
 reference = { rate = +20.74, amplitude = 251, beat_error = 0.25, source = "tg, file 10, lift 55° scaled to 52°, card clock; mean of readings (median +20.73)" }
 
 [[recording]]
-file = "reverso_DU_part01-11.flac"
+file = "take_part01-011.flac"
 position = "DU"
 reference = { rate = +21.05, amplitude = 252, beat_error = 0.25, source = "tg, file 11, lift 55° scaled to 52°, card clock; mean of readings (median +21.15)" }
 
 [[recording]]
-file = "reverso_DU_part01-12.flac"
+file = "take_part01-012.flac"
 position = "DU"
 reference = { rate = +21.41, amplitude = 246, beat_error = 0.31, source = "tg, file 12, lift 55° scaled to 52°, card clock; mean of readings (median +21.45)" }
 
 [[recording]]
-file = "reverso_DU_part01-13.flac"
+file = "take_part01-013.flac"
 position = "DU"
 reference = { rate = +20.57, amplitude = 245, beat_error = 0.27, source = "tg, file 13, lift 55° scaled to 52°, card clock; mean of readings (median +20.94)" }

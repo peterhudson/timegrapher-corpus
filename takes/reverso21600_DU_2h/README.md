@@ -20,3 +20,12 @@ tg-mod offline analyze at 21,600 (auto-detected) and lift angle 55°, amplitude 
 | 13 | +20.94 / +20.57 | +20.7 | 245 | 243 | 0.27 | 0.43 |
 
 Rate agrees within 0.4 s/d like for like (tg mean vs the engine's whole-file fit, 0.1 s/d in 12 of 13), amplitude within 2°: the first 21,600 watch matches tg as closely as the best 28,800 takes. Beat error reads 0.03–0.14 ms above tg, more in files 07–13 (clipping from file 02 on, Mic 10/16, may shift the unlock edge; a check for the research thread).
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `reverso_DU_part01-01.flac` … `reverso_DU_part01-13.flac` | `take_part01-001.flac` … `take_part01-013.flac` |

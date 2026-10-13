@@ -1,0 +1,19 @@
+{
+  "watch": "Rolex Yacht-Master 42",
+  "position": "DD",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (legacy take, brought to the standard layout 2026-10)",
+  "started_utc": "2026-10-09T05:56:12.569Z",
+  "ended_utc": "2026-10-09T06:26:12.627Z",
+  "duration_s": 1800.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac",
+    "take_part01-003.flac"
+  ],
+  "notes": [],
+  "result": null
+}

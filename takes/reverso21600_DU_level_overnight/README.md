@@ -19,3 +19,12 @@ tg-mod offline analyze at 21,600 (auto-detected) and lift angle 55°, amplitude 
 | 89 (14h40) | +7.29 / +7.39 | +7.10 | 233 | 232 | 0.43 | 0.34 |
 
 Rate agrees within 0.3 s/d like for like (tg mean vs the engine's whole-file fit; within 0.1 s/d in 8 of 12). Amplitude reads 1–3° below tg in every file (mean 2.3°), a little more than the 0–2° on the 2 h take. Beat error from the unlock reads 0.02–0.19 ms below tg in 11 of 12 files (file 17 is 0.04 above); the 2 h take at Mic 10/16 read above tg instead, so the sign of this gap follows the recording, not a fixed offset. This is the manifest reference for the take: rate is good, amplitude and beat error carry these gaps.
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `reverso_DUlevel_part01-01.flac` … `reverso_DUlevel_part01-96.flac` | `take_part01-001.flac` … `take_part01-096.flac` |
