@@ -21,6 +21,8 @@ Rate agrees with tg within 0.1 s/d. Amplitude reads 14–18° high, the largest 
 
 This take clips (see above), but the unclipped Mic 4/16 take that follows shows the same gap (engine 296°, tg 276°), so clipping does not explain it.
 
+Room AC off for the whole take (the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

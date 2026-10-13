@@ -3,7 +3,7 @@ calibre = "3235"
 bph = 28800
 lift = 55
 wheels = { "escape wheel (20 teeth)" = 5.0 }
-notes = "Dial down, 30 min. Lift 55° as tg. Rates on the sound card clock, as tg reads them; the clock-corrected report is in calibrated/. Beat error is from the unlock as tg, with the drop value beside it. A loud knock near the 3-minute mark in segment -01."
+notes = "Dial down, 30 min. Lift 55° as tg. Rates on the sound card clock, as tg reads them; the clock-corrected report is in calibrated/. Beat error is from the unlock as tg, with the drop value beside it. A loud knock near the 3-minute mark in segment -01. Room AC off for the whole take (the owner's AC log)."
 
 [[recording]]
 file = "take_part01-001.flac"

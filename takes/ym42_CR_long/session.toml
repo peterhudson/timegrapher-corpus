@@ -3,7 +3,7 @@ calibre = "3235"
 bph = 28800
 lift = 55
 wheels = { "escape wheel (20 teeth)" = 5.0 }
-notes = "Crown right (12 up), part a 01-09 and part b 01-04, lift 55° as tg. Rates on the sound card clock, as tg reads them. Reference rate is tg's mean of its readings, like for like with the fitted rate; tg's median is in the source, to compare with the 10 s median. part01-03 spans the workstation's suspend (its audio jumps 1,283 s at 357 s), so it is measured as two readings, before and after the jump; tg's reference is for the whole file. No clock-corrected report: the single clock log spans the suspend."
+notes = "Crown right (12 up), part a 01-09 and part b 01-04, lift 55° as tg. Rates on the sound card clock, as tg reads them. Reference rate is tg's mean of its readings, like for like with the fitted rate; tg's median is in the source, to compare with the 10 s median. part01-03 spans the workstation's suspend (its audio jumps 1,283 s at 357 s), so it is measured as two readings, before and after the jump; tg's reference is for the whole file. No clock-corrected report: the single clock log spans the suspend. Room AC off for the whole take (the owner's AC log)."
 
 [[recording]]
 file = "take_part01-001.flac"

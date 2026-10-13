@@ -21,6 +21,8 @@ tg-mod offline analyze at 21,600 (auto-detected) and lift angle 55°, amplitude 
 
 Rate agrees within 0.4 s/d like for like (tg mean vs the engine's whole-file fit, 0.1 s/d in 12 of 13), amplitude within 2°: the first 21,600 watch matches tg as closely as the best 28,800 takes. Beat error reads 0.03–0.14 ms above tg, more in files 07–13 (clipping from file 02 on, Mic 10/16, may shift the unlock edge; a check for the research thread).
 
+Room AC on from about 2,733 to 5,497 s and from about 6,589 s to the end (22:55:32-23:41:36Z and 23:59:48Z-01:04:14Z, the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

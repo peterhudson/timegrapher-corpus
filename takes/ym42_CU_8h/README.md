@@ -24,6 +24,8 @@ Amplitude within 0–4°, rate within about 1 s/d, beat error within 0.04 ms on 
 
 `timegrapher long --clock clocklog.txt --lift 55 --escape-teeth 20` on the whole take: sound card 21.3 ppm slow, corrected rate **−13.67 s/d**, amplitude 227° (slices 222–230°). No periodic rate change. Amplitude: 60.0 s at 3.2° p-p (fourth wheel; 8° dial up, none found dial down), plus 45.0 s at 3.4° p-p and 54.0 s at 1.9° p-p, and a slow 257 s swing of 4.7°.
 
+Room AC off for the whole take (the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

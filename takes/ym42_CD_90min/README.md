@@ -19,6 +19,8 @@ Rate agrees within 0.5 s/d in five segments and 1.3–1.7 s/d in the last two, w
 
 the owner's No. 1900 bench timegrapher read +31 s/d and 217° at 52° (about 229° at 55°) crown down at 16:53Z, a few minutes after this take, with its trace moving between +19 and +33 s/d. the owner's by-eye clock readings (+4 s at 15:32Z and at 16:46Z) cannot resolve the predicted gain of about 1.7 s; from now on clock checks are photos of the dial beside a screen clock.
 
+Room AC off for the whole take (the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

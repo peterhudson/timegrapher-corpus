@@ -12,6 +12,8 @@ tg is jnarvaezp/tg-mod built with lift angle 55° (the value for 32xx movements)
 
 At 52°: 240°, 240°, 233° and 238°. timegrapher reads 250° (with PR #8) at 55° on the same segments. The rate swings between segments are the watch itself, not noise.
 
+Room AC off for the whole take (the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

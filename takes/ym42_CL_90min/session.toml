@@ -3,7 +3,7 @@ calibre = "3235"
 bph = 28800
 lift = 55
 wheels = { "escape wheel (20 teeth)" = 5.0 }
-notes = "Crown left (12 down), 90 min in 9 files of 10 min. Lift 55° as tg. Rates on the sound card clock, as tg reads them; the clock-corrected whole-take report is in calibrated/. The rate wanders between about +35 and +85 s/d inside each 10 minutes with dips downward, so the 10 s median sits 2 to 6 s/d above the fitted rate: the reference rate is tg's mean of its readings (like for like with the fitted rate), with tg's median in the source. Beat error is from the unlock as tg, with the drop value beside it. Segment 06 has a clipped knock."
+notes = "Crown left (12 down), 90 min in 9 files of 10 min. Lift 55° as tg. Rates on the sound card clock, as tg reads them; the clock-corrected whole-take report is in calibrated/. The rate wanders between about +35 and +85 s/d inside each 10 minutes with dips downward, so the 10 s median sits 2 to 6 s/d above the fitted rate: the reference rate is tg's mean of its readings (like for like with the fitted rate), with tg's median in the source. Beat error is from the unlock as tg, with the drop value beside it. Segment 06 has a clipped knock. Room AC off for the whole take (the owner's AC log)."
 
 [[recording]]
 file = "take_part01-001.flac"

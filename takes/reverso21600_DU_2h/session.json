@@ -31,6 +31,21 @@
       "text": "start reverso_DU_part01 (57600s left) mixer: Capture 10 [62%], AGC [off]"
     },
     {
+      "audio_s": 2733.0,
+      "utc": "2026-10-09T22:55:32.000Z",
+      "text": "room AC on (the owner's AC log)"
+    },
+    {
+      "audio_s": 5497.0,
+      "utc": "2026-10-09T23:41:36.000Z",
+      "text": "room AC off"
+    },
+    {
+      "audio_s": 6589.0,
+      "utc": "2026-10-09T23:59:48.000Z",
+      "text": "room AC on (until 01:04:14Z, after the take)"
+    },
+    {
       "audio_s": 7441.751,
       "utc": "2026-10-10T00:14:02.138Z",
       "text": "stopped manually after the owner's end photo"

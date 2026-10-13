@@ -26,6 +26,8 @@ Cause, from the per-side median envelope (`tick_envelope_seg03.png`): in the hol
 - Weaker components at 46 s and 60 s, each about 2–3 s/d peak to peak.
 - Amplitude cycle: 46 s, false alarm 1e-3, too weak to trust given the amplitude problems above.
 
+Room AC off for the whole take (the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

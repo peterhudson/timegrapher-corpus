@@ -20,6 +20,8 @@ tg-mod offline analyze at 21,600 (auto-detected) and lift angle 55°, amplitude 
 
 Rate agrees within 0.3 s/d like for like (tg mean vs the engine's whole-file fit; within 0.1 s/d in 8 of 12). Amplitude reads 1–3° below tg in every file (mean 2.3°), a little more than the 0–2° on the 2 h take. Beat error from the unlock reads 0.02–0.19 ms below tg in 11 of 12 files (file 17 is 0.04 above); the 2 h take at Mic 10/16 read above tg instead, so the sign of this gap follows the recording, not a fixed offset. This is the manifest reference for the take: rate is good, amplitude and beat error carry these gaps.
 
+Room AC off for the whole take (the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

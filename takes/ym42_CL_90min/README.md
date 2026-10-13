@@ -21,6 +21,8 @@ Crown left, the rate wanders between about +35 and +85 s/d within each 10 minute
 
 For a watch whose rate wanders like this, the average (tg's mean, timegrapher's whole-file rate) is what the hands keep, so it is what to compare with the clock photos.
 
+Room AC off for the whole take (the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

@@ -18,6 +18,8 @@ timegrapher (main after PRs #8 and #10, `analyze --lift 52`) per segment: 307° 
 
 So this watch shows the same once-a-minute amplitude dip as the Rolex Yacht-Master and the Patek 324 clone, but not the Dandong 3235 control.
 
+Room AC off for the whole take (the owner's AC log). On the grey USB stand in the dial-up position.
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

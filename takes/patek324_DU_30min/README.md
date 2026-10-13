@@ -12,6 +12,8 @@ tg is jnarvaezp/tg-mod built with lift angle 55°, run offline on these files. V
 
 timegrapher (main after PRs #8 and #10, lift 52°) agrees: 243°, −5.1 s/d (window median), beat error from the unlock 0.49 / 0.46 / 0.45 ms against tg's 0.41 / 0.39 / 0.43. The erratic beat errors seen earlier (5.2 and 2.5 ms on segments 01 and 03) came from the beat tracker mixing up tick and tock, which PR #10 fixed. With that fix the once-a-minute rate cycle is 6.7 s/d peak to peak, not the 34.7 s/d reported before. The 18° amplitude cycle every minute is unchanged.
 
+Room AC off for the whole take (the owner's AC log). On the grey USB stand in the dial-up position. Fully wound at the start.
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

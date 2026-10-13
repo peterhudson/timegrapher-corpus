@@ -9,6 +9,8 @@ tg-mod built at 55°, run offline; medians of its 16 s windows; 50° scaled by 5
 
 timegrapher (main, `analyze --lift 50`): amplitude 296° (Tick 300, Tock 287), rate +10.5 s/d, beat error 0.17 ms from the unlock (0.33 ms from the drop). Amplitude 20° high and beat error 0.08 ms low, as on the 30 min take; see its README.
 
+Room AC off for the whole take (the owner's AC log).
+
 ## File names
 
 The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;

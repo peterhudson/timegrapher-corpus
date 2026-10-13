@@ -1,7 +1,7 @@
 watch = "JLC Reverso replica (manual wind, unknown movement)"
 bph = 21600
 lift = 52
-notes = "Dial up, head only and level, fully wound at 01:48Z 2026-10-10 and left to run down for 15 h 51 min in 96 files of 10 min, lift 52°, Mic 8/16, AGC off, no gaps. Wind is hours since full wind at the start of each file. Rates on the sound card clock (21.3 ppm slow); the clock-corrected whole-take report is in calibrated/. tg reference on every 8th file (12 of 96): mean of tg-mod's per-step readings, lift 55° scaled to 52°, card clock; see the README. Photos: net +8.4 / +8.8 s over 15.73 / 15.79 h. No. 1900 after the run (about 16 h down, clamp, dial up, 52°): +3 to +7 s/d, 235–245°, 0.1 ms."
+notes = "Dial up, head only and level, fully wound at 01:48Z 2026-10-10 and left to run down for 15 h 51 min in 96 files of 10 min, lift 52°, Mic 8/16, AGC off, no gaps. Wind is hours since full wind at the start of each file. Rates on the sound card clock (21.3 ppm slow); the clock-corrected whole-take report is in calibrated/. tg reference on every 8th file (12 of 96): mean of tg-mod's per-step readings, lift 55° scaled to 52°, card clock; see the README. Photos: net +8.4 / +8.8 s over 15.73 / 15.79 h. No. 1900 after the run (about 16 h down, clamp, dial up, 52°): +3 to +7 s/d, 235–245°, 0.1 ms. Room AC off for the whole take (the owner's AC log)."
 
 [[recording]]
 file = "take_part01-001.flac"

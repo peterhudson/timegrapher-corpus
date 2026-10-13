@@ -2,7 +2,7 @@ watch = "ETA 2824-2 clone (bench watch 5), in a plastic movement holder"
 calibre = "2824-2"
 bph = 28800
 lift = 50
-notes = "Dial up, 30 min, uncased movement in a plastic holder. Lift 50° as tg (tg's 55° amplitude scaled by 50/55). Rates on the sound card clock, as tg reads them. Beat error is from the unlock as tg, with the drop value beside it."
+notes = "Dial up, 30 min, uncased movement in a plastic holder. Lift 50° as tg (tg's 55° amplitude scaled by 50/55). Rates on the sound card clock, as tg reads them. Beat error is from the unlock as tg, with the drop value beside it. Room AC off for the whole take (the owner's AC log)."
 wheels = { "escape wheel (20 teeth)" = 5.0 }
 
 [[recording]]
