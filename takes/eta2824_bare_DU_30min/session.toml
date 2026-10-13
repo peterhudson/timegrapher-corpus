@@ -3,7 +3,7 @@ calibre = "2824-2"
 bph = 28800
 lift = 50
 wheels = { "escape wheel (20 teeth)" = 5.0 }
-notes = "Dial up, 30 min, bare movement (no holder), mic level 10/16, which clips. Lift 50° as tg (scaled from 55°). Rates on the sound card clock, as tg reads them; the clock-corrected report is in calibrated/. Beat error is from the unlock as tg, with the drop value beside it."
+notes = "Dial up, 30 min, bare movement (no holder), mic level 10/16, which clips. Lift 50° as tg (scaled from 55°). Rates on the sound card clock, as tg reads them; the clock-corrected report is in calibrated/. Beat error is from the unlock as tg, with the drop value beside it. Room AC off for the whole take (the owner's AC log)."
 
 [[recording]]
 file = "."
@@ -11,16 +11,16 @@ position = "DU"
 reference = { rate = 10.85, amplitude = 281, beat_error = 0.31, source = "tg, same file, lift 50° (scaled from 55°), card clock" }
 
 [[recording]]
-file = "eta2824_bare_DU_48000-01.flac"
+file = "take_part01-001.flac"
 position = "DU"
 reference = { rate = 10.78, amplitude = 279, beat_error = 0.32, source = "tg, segment -01, lift 50°, card clock" }
 
 [[recording]]
-file = "eta2824_bare_DU_48000-02.flac"
+file = "take_part01-002.flac"
 position = "DU"
 reference = { rate = 11.04, amplitude = 283, beat_error = 0.33, source = "tg, segment -02, lift 50°, card clock" }
 
 [[recording]]
-file = "eta2824_bare_DU_48000-03.flac"
+file = "take_part01-003.flac"
 position = "DU"
 reference = { rate = 10.71, amplitude = 281, beat_error = 0.29, source = "tg, segment -03, lift 50°, card clock" }

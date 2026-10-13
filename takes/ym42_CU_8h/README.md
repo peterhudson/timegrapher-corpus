@@ -23,3 +23,14 @@ tg is jnarvaezp/tg-mod built with lift angle 55° (the 3235's), run offline on e
 Amplitude within 0–4°, rate within about 1 s/d, beat error within 0.04 ms on every segment: the closest agreement of any take so far.
 
 `timegrapher long --clock clocklog.txt --lift 55 --escape-teeth 20` on the whole take: sound card 21.3 ppm slow, corrected rate **−13.67 s/d**, amplitude 227° (slices 222–230°). No periodic rate change. Amplitude: 60.0 s at 3.2° p-p (fourth wheel; 8° dial up, none found dial down), plus 45.0 s at 3.4° p-p and 54.0 s at 1.9° p-p, and a slow 257 s swing of 4.7°.
+
+Room AC off for the whole take (the owner's AC log).
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `ym42_CU_48000-01.flac` … `ym42_CU_48000-14.flac` | `take_part01-001.flac` … `take_part01-014.flac` |

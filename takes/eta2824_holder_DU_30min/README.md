@@ -25,3 +25,16 @@ Cause, from the per-side median envelope (`tick_envelope_seg03.png`): in the hol
 - Rate cycle: 5.00 s, 63 s/d peak to peak (false alarm 7e-133), which matches the escape wheel.
 - Weaker components at 46 s and 60 s, each about 2–3 s/d peak to peak.
 - Amplitude cycle: 46 s, false alarm 1e-3, too weak to trust given the amplitude problems above.
+
+Room AC off for the whole take (the owner's AC log).
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `eta2824_holder_DU_48000-01.flac` | `take_part01-001.flac` |
+| `eta2824_holder_DU_48000-02.flac` | `take_part01-002.flac` |
+| `eta2824_holder_DU_48000-03.flac` | `take_part01-003.flac` |

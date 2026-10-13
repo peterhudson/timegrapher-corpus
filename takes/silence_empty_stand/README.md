@@ -11,3 +11,13 @@
 - **The noise above 1.5 kHz is dominated by a comb of exact 1 kHz harmonics** (3, 4, 5, 6, **7 (strongest, −49.8 dBFS)**, 9, 10 kHz…). That's USB start-of-frame (1 ms) interference from the host. Notching it would lower the noise floor in the tick band by about **4.8 dB**.
 - **The 7 kHz line measures 7000.140 Hz on the card clock**, which is a true 7000 Hz with the card 20.0 ppm slow. That agrees with the −20 to −22 ppm from the clock logs. **The comb is a built-in card-clock reference:** the engine can calibrate the sound-card rate from any recording, with no NTP needed.
 - These are the same 5/6/7 kHz lines seen on day 1 through the ASMedia hub, so they come from the device or USB itself, not the hub.
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `silence_mic10.flac` | `take_part01-001.flac` |
+| `silence_mic8.flac` | `take_part02-001.flac` |

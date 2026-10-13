@@ -1,0 +1,48 @@
+{
+  "watch": "",
+  "position": "",
+  "lift_deg": null,
+  "bph": null,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (legacy take, brought to the standard layout 2026-10)",
+  "started_utc": "2026-10-10T17:40:58.519Z",
+  "ended_utc": "2026-10-10T17:50:58.939Z",
+  "duration_s": 600.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part02-001.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-10T17:40:58.519Z",
+      "text": "start silence_mic10_part01 (300s left) mixer: Capture 10 [62%], AGC [off]"
+    },
+    {
+      "audio_s": 300.374,
+      "utc": "2026-10-10T17:45:58.892Z",
+      "text": "arecord exit 0 for silence_mic10_part01"
+    },
+    {
+      "audio_s": 300.421,
+      "utc": "2026-10-10T17:45:58.939Z",
+      "text": "start silence_mic8_part01 (300s left) mixer: Capture 8 [50%], AGC [off]"
+    },
+    {
+      "audio_s": 600.0,
+      "utc": "2026-10-10T17:50:59.332Z",
+      "text": "arecord exit 0 for silence_mic8_part01"
+    }
+  ],
+  "breaks": [
+    {
+      "audio_s": 300.0,
+      "frame": 14400000,
+      "segment": "take_part02-001.flac",
+      "utc": "2026-10-10T17:45:58.939Z",
+      "gap_s": 0.421
+    }
+  ],
+  "result": null
+}

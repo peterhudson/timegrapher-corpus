@@ -9,14 +9,23 @@ against an independent reading.
 ## Layout
 
 - `takes/<take>/` holds a take's metadata: `README.md` with tg's readings,
-  `session.toml` for `timegrapher session` and `regress`, and where present
-  the sound card's clock log (`clocklog.txt`) and photo-read clock checks
-  (`ground_truth.txt`).
+  `session.toml` for `timegrapher session` and `regress`, `session.json`
+  (the desktop app's description of a recording: sample rate, start and
+  end, the files in order, the logged events, and a break wherever the
+  recording stopped and started again), `clock.csv` (the sound card's clock
+  log for the whole take, Unix time against frames, as the app writes it),
+  photo-read clock checks (`ground_truth.txt`) where present, and the
+  recorder's original logs in `raw/`.
+- Audio files are named `take_partPP-NNN.flac`: `PP` is one recording run
+  (`02` when a take was carried on in a new run), `NNN` the file within it,
+  so name order is time order. Takes recorded before 2026-10-13 had other
+  names; each take's README lists them.
 - The audio (FLAC, 48 kHz, 16-bit mono) is attached to the release tagged
   `<take>`, not stored in git. `corpus.json` lists every file with its size
   and SHA-256.
 - `scripts/fetch.py DEST` downloads and checks the audio, needing nothing
-  but Python. `scripts/upload.sh` is for maintainers.
+  but Python. `scripts/upload.sh` and `scripts/rename_assets.py` are for
+  maintainers.
 
 ## How the takes were recorded
 
@@ -26,7 +35,7 @@ C-Media USB timegrapher pickup at 48 kHz, 16-bit mono, automatic gain off
 stand are dial up but tilted by its cradle, so their rates differ from a
 level reading; the Yacht-Master takes were head only and level, and the
 overnight Reverso take was level. Rates in the tg tables are on the sound
-card's own clock unless a table says otherwise; `clocklog.txt` lets you
+card's own clock unless a table says otherwise; `clock.csv` lets you
 correct for it. `silence_empty_stand` is the pickup with no watch on it.
 
 ## Tiers

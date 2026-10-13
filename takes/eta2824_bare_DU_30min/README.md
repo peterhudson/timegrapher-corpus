@@ -20,3 +20,16 @@ timegrapher (main, `analyze --lift 50`) per segment:
 Rate agrees with tg within 0.1 s/d. Amplitude reads 14–18° high, the largest gap on any tg-grounded take so far (the others agree within 3–4°). Beat error from the unlock reads 0.09–0.14 ms low. On the median tick at 300 s of the Mic 4/16 take the engine times the unlock about 8 ms before the drop on both sides; an amplitude 16° lower needs that interval about 0.2 ms longer, so one of the two edges is placed a little differently from tg's. Under investigation in the research thread.
 
 This take clips (see above), but the unclipped Mic 4/16 take that follows shows the same gap (engine 296°, tg 276°), so clipping does not explain it.
+
+Room AC off for the whole take (the owner's AC log).
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `eta2824_bare_DU_48000-01.flac` | `take_part01-001.flac` |
+| `eta2824_bare_DU_48000-02.flac` | `take_part01-002.flac` |
+| `eta2824_bare_DU_48000-03.flac` | `take_part01-003.flac` |

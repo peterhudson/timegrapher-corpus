@@ -3,55 +3,55 @@ calibre = "3235"
 bph = 28800
 lift = 55
 wheels = { "escape wheel (20 teeth)" = 5.0 }
-notes = "Dial up, 2 h in 12 ten-minute files from 18:31:34Z 2026-10-08, no gaps. Mic 10/16, AGC off. Recorded before the watch's service; all six positions are re-recorded after it. Lift 55° as tg. Rates on the sound card clock (about 19.7 ppm slow), as tg reads them. tg was run on segments 01, 02 and 07 only; its values there are medians of its 16 s windows, not means. Beat error is from the unlock as tg, with the drop value beside it."
+notes = "Dial up, 2 h in 12 ten-minute files from 18:31:34Z 2026-10-08, no gaps. Mic 10/16, AGC off. Recorded before the watch's service; all six positions are re-recorded after it. Lift 55° as tg. Rates on the sound card clock (about 19.7 ppm slow), as tg reads them. tg was run on segments 01, 02 and 07 only; its values there are medians of its 16 s windows, not means. Beat error is from the unlock as tg, with the drop value beside it. Room AC off for the whole take (the owner's AC log)."
 
 [[recording]]
-file = "ym42_DU_48000-01.flac"
+file = "take_part01-001.flac"
 position = "DU"
 reference = { rate = +46.40, amplitude = 254, beat_error = 0.29, source = "tg, segment -01, lift 55°, card clock; median of 16 s windows" }
 
 [[recording]]
-file = "ym42_DU_48000-02.flac"
+file = "take_part01-002.flac"
 position = "DU"
 reference = { rate = +50.20, amplitude = 254, beat_error = 0.27, source = "tg, segment -02, lift 55°, card clock; median of 16 s windows" }
 
 [[recording]]
-file = "ym42_DU_48000-03.flac"
+file = "take_part01-003.flac"
 position = "DU"
 
 [[recording]]
-file = "ym42_DU_48000-04.flac"
+file = "take_part01-004.flac"
 position = "DU"
 
 [[recording]]
-file = "ym42_DU_48000-05.flac"
+file = "take_part01-005.flac"
 position = "DU"
 
 [[recording]]
-file = "ym42_DU_48000-06.flac"
+file = "take_part01-006.flac"
 position = "DU"
 
 [[recording]]
-file = "ym42_DU_48000-07.flac"
+file = "take_part01-007.flac"
 position = "DU"
 reference = { rate = +14.30, amplitude = 246, beat_error = 0.36, source = "tg, segment -07, lift 55°, card clock; median of 16 s windows" }
 
 [[recording]]
-file = "ym42_DU_48000-08.flac"
+file = "take_part01-008.flac"
 position = "DU"
 
 [[recording]]
-file = "ym42_DU_48000-09.flac"
+file = "take_part01-009.flac"
 position = "DU"
 
 [[recording]]
-file = "ym42_DU_48000-10.flac"
+file = "take_part01-010.flac"
 position = "DU"
 
 [[recording]]
-file = "ym42_DU_48000-11.flac"
+file = "take_part01-011.flac"
 position = "DU"
 
 [[recording]]
-file = "ym42_DU_48000-12.flac"
+file = "take_part01-012.flac"
 position = "DU"

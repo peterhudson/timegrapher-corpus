@@ -20,3 +20,14 @@ timegrapher is `analyze --lift 55` on main a6240be. Its rate is a fit over the w
 Crown left, the rate wanders between about +35 and +85 s/d within each 10 minutes, with dips downward, so the median reading sits 2–6 s/d above the average. Compared like for like, the two programs agree: tg's median against timegrapher's window median is within 0.6 s/d in every segment, and tg's mean against timegrapher's whole-file fit is within 0.7 s/d in seven of the nine segments (2.8 s/d in 06, which has a clipped knock, and 2.3 s/d in 09). Amplitude reads 2–5° above tg, as on the other Yacht-Master positions. Beat error agrees within 0.03 ms.
 
 For a watch whose rate wanders like this, the average (tg's mean, timegrapher's whole-file rate) is what the hands keep, so it is what to compare with the clock photos.
+
+Room AC off for the whole take (the owner's AC log).
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `ym42_CL_part01-01.flac` … `ym42_CL_part01-09.flac` | `take_part01-001.flac` … `take_part01-009.flac` |

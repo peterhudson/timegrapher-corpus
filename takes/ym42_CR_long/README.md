@@ -20,3 +20,15 @@ tg is jnarvaezp/tg-mod built with lift angle 55°, run offline (`TG_TRACE=1 xvfb
 | part01-09 | 231° | -9.67 | -10.47 | 0.24 | 235° | -10.2 | -10.4 | 0.22 |
 
 Amplitude reads 3–5° above tg, as in the other positions. Beat error agrees within 0.04 ms except part01-03 (0.19 against 0.24 ms), the file that spans the suspend. Rate agrees within 1.2 s/d like for like (tg's median against timegrapher's window median) in every file, and within 1.8 s/d between tg's mean and timegrapher's whole-file fit (1.6 in part01-05 and b_part01-02, 1.8 in part01-03 across the suspend).
+
+Room AC off for the whole take (the owner's AC log).
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `ym42_CR_part01-01.flac` … `ym42_CR_part01-09.flac` | `take_part01-001.flac` … `take_part01-009.flac` |
+| `ym42_CR_b_part01-01.flac` … `ym42_CR_b_part01-04.flac` | `take_part02-001.flac` … `take_part02-004.flac` |

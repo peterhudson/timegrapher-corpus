@@ -17,3 +17,16 @@ timegrapher (main after PRs #8 and #10, `analyze --lift 52`) per segment: 307° 
 - Rate cycle: 5.00 s, 45.4 s/d peak to peak (false alarm 5e-30), which matches a 20-tooth escape wheel.
 
 So this watch shows the same once-a-minute amplitude dip as the Rolex Yacht-Master and the Patek 324 clone, but not the Dandong 3235 control.
+
+Room AC off for the whole take (the owner's AC log). On the grey USB stand in the dial-up position.
+
+## File names
+
+The audio was renamed to the standard take layout on 2026-10-13 (`take_partPP-NNN`: run, then file;
+name order is time order). Notes and tg sources written before then use the old names:
+
+| Old | New |
+|---|---|
+| `peacock1258_DU_48000-01.flac` | `take_part01-001.flac` |
+| `peacock1258_DU_48000-02.flac` | `take_part01-002.flac` |
+| `peacock1258_DU_48000-03.flac` | `take_part01-003.flac` |
