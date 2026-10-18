@@ -146,6 +146,53 @@
    ]
   },
   {
+   "id": "pepsi3235_DU_7h",
+   "tier": "example",
+   "release": "pepsi3235_DU_7h",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 193573751,
+     "sha256": "7edb3cbd8df171144f017f8f56c4980234918511a7bbbd0d582e4348e21d744a"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 194246951,
+     "sha256": "847a2d9f56b2e656b1b3e83566ff35d7c89f5a35bda01d99907d3bdefc37e85c"
+    },
+    {
+     "name": "take_part01-003.flac",
+     "bytes": 197261138,
+     "sha256": "a4191828f7e58a4f4b381386d0b9b0f2cd403ba57cea4be7f0cc6d7dc0f80a5a"
+    },
+    {
+     "name": "take_part01-004.flac",
+     "bytes": 192326237,
+     "sha256": "d6d6dab2a5b2af0640a36ee947fa1586321cb73a2154e72afc25ecc8378f6964"
+    },
+    {
+     "name": "take_part01-005.flac",
+     "bytes": 191964410,
+     "sha256": "3d30b468235d9c8af4e216253e205a5e20dde180a3e6fdb99e367da4901fbfec"
+    },
+    {
+     "name": "take_part01-006.flac",
+     "bytes": 191665150,
+     "sha256": "2032529e41c3257333528ea1ec29a4ce1be64f805b6bc050b20c99ffd2a10df6"
+    },
+    {
+     "name": "take_part01-007.flac",
+     "bytes": 191341936,
+     "sha256": "a7d7080c853734452d02db7bd70e096b7142b5894df158342468f599d2a471c4"
+    },
+    {
+     "name": "take_part01-008.flac",
+     "bytes": 91118203,
+     "sha256": "341ab2f68aef908b199fc50e6c67d85cac3c9c724d0c95e38414c7b366338c65"
+    }
+   ]
+  },
+  {
    "id": "reverso21600_DU_2h",
    "tier": "referenced",
    "release": "reverso21600_DU_2h",

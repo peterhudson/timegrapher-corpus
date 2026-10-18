@@ -43,6 +43,9 @@ correct for it. `silence_empty_stand` is the pickup with no watch on it.
 - **smoke**: runs through the engine; catches crashes and odd behaviour.
 - **referenced**: tg read the same file; numbers are checked against it.
 - **paired**: tg plus a commercial timegrapher read at the same time.
+- **example**: kept for the documentation's figures and as sample data; no
+  tg reference and no `session.toml`, so `regress` never reads it, not even
+  with `--smoke`. `scripts/fetch.py DEST TAKE` downloads it.
 - **holdout**: recordings the engine is never tuned on, read only to check
   it at announced milestones (below).
 
