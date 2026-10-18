@@ -1,0 +1,12 @@
+watch = "Pepsi"
+calibre = "Dandong 3235"
+bph = 28800
+lift = 55.0
+lift_known = true
+
+[wheels]
+
+[[recording]]
+file = "."
+position = "DU"
+clock = "clock.csv"
