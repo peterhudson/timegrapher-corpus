@@ -23,9 +23,9 @@ against an independent reading.
 - The audio (FLAC, 48 kHz, 16-bit mono) is attached to the release tagged
   `<take>`, not stored in git. `corpus.json` lists every file with its size
   and SHA-256.
-- `scripts/fetch.py DEST` downloads and checks the audio of every take but
-  the example ones (name a take to fetch it), needing nothing but Python. `scripts/upload.sh` and `scripts/rename_assets.py` are for
-  maintainers.
+- `scripts/fetch.py DEST` downloads and checks the audio, needing nothing
+  but Python; it leaves out example and holdout takes unless asked (below).
+  `scripts/upload.sh` and `scripts/rename_assets.py` are for maintainers.
 
 ## How the takes were recorded
 
