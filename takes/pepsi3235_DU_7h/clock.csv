@@ -1,5 +1,3 @@
-# system time (Unix seconds) against audio frames captured
-unix_s,frames
 1792272739.898986199,2048
 1792272749.936281689,483328
 1792272759.963145591,964608

@@ -45,19 +45,21 @@ correct for it. `silence_empty_stand` is the pickup with no watch on it.
 - **paired**: tg plus a commercial timegrapher read at the same time.
 - **example**: kept for the documentation's figures and as sample data; no
   tg reference and no `session.toml`, so `regress` never reads it, not even
-  with `--smoke`. `scripts/fetch.py DEST TAKE` downloads it.
+  with `--smoke`, and none was used to tune the engine. A plain
+  `scripts/fetch.py DEST` leaves example takes out; name one to fetch it
+  (`scripts/fetch.py DEST TAKE`).
 - **holdout**: recordings the engine is never tuned on, read only to check
   it at announced milestones (below).
 
 ## The holdout seal
 
-Every take above the holdout tier has been used to tune the engine, so it
+Every smoke, referenced and paired take has been used to tune the engine, so it
 cannot show whether the engine works on recordings it has not seen. Holdout
 takes are kept apart for that:
 
 - **What goes in.** New recordings only: confirmed faults recorded before
   and after repair, and a share of contributed recordings. None of the
-  takes above is holdout: all were used for tuning.
+  smoke, referenced or paired takes is holdout: all were used for tuning.
 - **How a fault is named.** In a holdout take's `session.toml`, each
   `[[recording]]` entry may carry
   `fault = { id = "...", side = "...", source = "bench: ..." }`. `id` is one
