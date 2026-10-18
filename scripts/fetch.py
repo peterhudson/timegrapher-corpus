@@ -10,6 +10,7 @@ A file already present with the right SHA-256 is not downloaded again.
 Holdout takes are left out unless --holdout is given, and then only they
 are fetched, so a development run never has their metadata or audio to read
 (see "The holdout seal" in README.md). Naming a take overrides neither.
+Example takes (kept for the documentation) are fetched only when named.
 Standard library only, so it runs on any CI runner with no secret.
 """
 import hashlib
@@ -47,6 +48,8 @@ def main(argv):
         if wanted and name not in wanted:
             continue
         if (take["tier"] == "holdout") != holdout:
+            continue
+        if take["tier"] == "example" and name not in wanted:
             continue
         out = os.path.join(dest, name)
         shutil.copytree(os.path.join(HERE, "takes", name), out, dirs_exist_ok=True)
