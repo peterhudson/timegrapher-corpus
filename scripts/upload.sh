@@ -4,8 +4,8 @@
 #
 #   scripts/upload.sh AUDIO_DIR TAKE [TIER]
 #
-# TIER is smoke, referenced, paired, example or holdout; it defaults to the take's tier in
-# corpus.json, or referenced for a new take.
+# TIER is smoke, referenced, paired, example or holdout; it defaults to the
+# take's tier in corpus.json, or referenced for a new take.
 # AUDIO_DIR/TAKE/*.flac are uploaded to the release tagged TAKE (created if
 # missing); files already attached are skipped. corpus.json gets the take's
 # entry with each file's size and SHA-256. Commit corpus.json and

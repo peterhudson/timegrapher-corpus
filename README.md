@@ -13,7 +13,7 @@ against an independent reading.
   (the desktop app's description of a recording: sample rate, start and
   end, the files in order, the logged events, and a break wherever the
   recording stopped and started again), `clock.csv` (the sound card's clock
-  log for the whole take, Unix time against frames, as the app writes it),
+  log for the whole take, Unix time against frames, with no header line),
   photo-read clock checks (`ground_truth.txt`) where present, and the
   recorder's original logs in `raw/`.
 - Audio files are named `take_partPP-NNN.flac`: `PP` is one recording run
@@ -24,8 +24,8 @@ against an independent reading.
   `<take>`, not stored in git. `corpus.json` lists every file with its size
   and SHA-256.
 - `scripts/fetch.py DEST` downloads and checks the audio, needing nothing
-  but Python. `scripts/upload.sh` and `scripts/rename_assets.py` are for
-  maintainers.
+  but Python; it leaves out example and holdout takes unless asked (below).
+  `scripts/upload.sh` and `scripts/rename_assets.py` are for maintainers.
 
 ## How the takes were recorded
 

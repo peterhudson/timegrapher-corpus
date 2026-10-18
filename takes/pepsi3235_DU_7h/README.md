@@ -14,7 +14,7 @@
 The app saved the audio as WAV; the corpus has it as FLAC in the standard take layout
 (`take_partPP-NNN`: run, then file; name order is time order):
 
-| App | Corpus |
+| Old | New |
 |---|---|
 | `audio-001.wav` | `take_part01-001.flac` |
 | `audio-002.wav` | `take_part01-002.flac` |
