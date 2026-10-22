@@ -72,9 +72,11 @@ takes are kept apart for that:
   name sorts first. The take is holdout when the first byte of that SHA-256
   is below `0x40` (one in four), otherwise development. A recording sent in
   with a named fault follows the same rule. The hash is in `corpus.json`, so
-  anyone can check the assignment.
+  anyone can check the assignment, and a holdout take's entry there carries
+  `"tier": "holdout"`.
 - **How they are read.** `scripts/fetch.py` leaves holdout takes out unless
-  given `--holdout`, and plain `timegrapher regress` skips them. They are
+  given `--holdout`. Plain `timegrapher regress` skips them, and so does
+  `regress --smoke`, which reads only smoke takes. They are
   measured only by `regress --holdout`, in a manual milestone job that never
   runs on pull requests or pushes and prints pass and fail counts only: no
   take names, file names or numbers.
