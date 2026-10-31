@@ -80,6 +80,18 @@
    ]
   },
   {
+   "id": "dd3285_explorer2_DU_43min_newstand",
+   "tier": "referenced",
+   "release": "dd3285_explorer2_DU_43min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 127170011,
+     "sha256": "cfc52f3009aa137d3b3ece16e5179e7fff127273a2cc596867c6282e73b0edd5"
+    }
+   ]
+  },
+  {
    "id": "eta2824_bare_DU_10min_g4",
    "tier": "referenced",
    "release": "eta2824_bare_DU_10min_g4",
@@ -195,6 +207,23 @@
      "name": "take_part01-002.flac",
      "bytes": 27458621,
      "sha256": "6fec9340c5ce14f9ee850ed56fcb154ac97e3799785fe44431a71f3ac1b82226"
+    }
+   ]
+  },
+  {
+   "id": "meteorite_daytona_DU_75min",
+   "tier": "smoke",
+   "release": "meteorite_daytona_DU_75min",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 192077399,
+     "sha256": "544415a65d1883e022db930f91b6d15035082f039a5a499c779432223428d8d8"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 47899771,
+     "sha256": "5791f62cd48894fdd01c7903e64612232eac3568cbb670a87b96e50c6e541b61"
     }
    ]
   },

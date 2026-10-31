@@ -1,0 +1,3 @@
+# Meteorite-dial Daytona case, Dandong 4130 clone, regulated, DU, 75 min (2026-10-17)
+
+Dial up, on the grey USB stand (tilted cradle). Recorded with the desktop app (0.4.0) on 2026-10-17; the first 5 s are crown left while the watch was set down. State of wind not recorded. The app was set to lift 52°; 55° here as the corpus 4130 takes. Smoke only, no reference: tg reads 375° and +12.8 s/d on it, timegrapher 278° (Tick and Tock 257° and 301°) and +10.6 s/d, so neither can stand as the truth. Lift 55°. Rates on the sound card clock; clock.csv corrects for it. Partner take: meteorite_daytona_DU_20min_newstand.

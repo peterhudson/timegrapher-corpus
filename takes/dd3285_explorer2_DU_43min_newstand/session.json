@@ -1,0 +1,28 @@
+{
+  "watch": "Explorer II replica, Dandong 3285 (Clean Factory)",
+  "position": "DU",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-18T18:14:12.957Z",
+  "ended_utc": "2026-10-18T18:57:11.511Z",
+  "duration_s": 2577.5007708333333,
+  "segments": [
+    "take_part01-001.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-18T18:14:12.984Z",
+      "text": "start take_part01 (259200s left) mixer: Capture 0 [0%], AGC [off]"
+    },
+    {
+      "audio_s": 2577.501,
+      "utc": "2026-10-18T18:57:11.511Z",
+      "text": "stopped manually after Peter's end reading"
+    }
+  ],
+  "result": null
+}

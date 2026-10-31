@@ -1,0 +1,12 @@
+watch = "Explorer II replica, Dandong 3285 (Clean Factory)"
+calibre = "3285 (clone)"
+bph = 28800
+lift = 55
+notes = "Dial up, on the new black stand (level), Mic 0/16, automatic gain off. Fully wound. Clock checks by photo at the start and end are in ground_truth.txt (the watch gained nothing measurable over 42 min 45 s). Lift 55° as tg. Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg."
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+
+[[recording]]
+file = "."
+position = "DU"
+wind_h = 0
+reference = { rate = 1.88, amplitude = 219, beat_error = 0.23, source = "tg, same file, lift 55°, card clock, median of its windows" }
