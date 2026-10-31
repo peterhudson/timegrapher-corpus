@@ -8,7 +8,7 @@ Dial up, on the new black stand (level), Mic 0/16, automatic gain off. The same 
 Black-dial Daytona (Dandong 4130 with a genuine free-sprung balance), dial up, new black stand, fully wound just before the start. Lift 52 deg.
 18:09:48.92Z to 18:29:48.94Z on 2026-10-30. Mic 0/16, AGC off, peaks -0.6 dBFS, no clipped samples. 2 x 600 s files.
 Quick read (analyze, lift 52, card clock): +3.7 / +3.3 s/d, 307/309 deg, BE 0.18 ms, scatter 0.06%.
-Grey-cradle partner: daytona4130_DU_30min (confirmed the same watch by Peter). Its first 10 min, same settings: +6.2 s/d, 303 deg, BE 0.35 ms, scatter 0.086%.
+Grey-cradle partner: daytona4130_DU_30min (the owner confirmed it is the same watch). Its first 10 min, same settings: +6.2 s/d, 303 deg, BE 0.35 ms, scatter 0.086%.
 ```
 
 ## Reference: tg and timegrapher on this recording

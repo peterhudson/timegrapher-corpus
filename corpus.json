@@ -1235,6 +1235,18 @@
    ]
   },
   {
+   "id": "ym42_DU_25min_newstand",
+   "tier": "smoke",
+   "release": "ym42_DU_25min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 32369830,
+     "sha256": "2c7fbaf6865f0950c954d9063cb0c44c1f48de1011269f8e77133d26c9896c46"
+    }
+   ]
+  },
+  {
    "id": "ym42_DU_2h",
    "tier": "referenced",
    "release": "ym42_DU_2h",
@@ -1298,6 +1310,55 @@
      "name": "take_part01-012.flac",
      "bytes": 35989313,
      "sha256": "d27f593180a493c09619be9bc54c13a4881c5d374a3973bb368c9cdaca8c94b0"
+    }
+   ]
+  },
+  {
+   "id": "ym42_DU_65h_excerpt_dying",
+   "tier": "smoke",
+   "release": "ym42_DU_65h_excerpt_dying",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 17941195,
+     "sha256": "6b2ed06005625c8be3d38e8343ff5c9f59a7f02602766d2a82e2fb16242aff30"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 17732195,
+     "sha256": "46f50ed0891019585fb7e808cc3bc7a83dcac27dd1bcb44647381f4f4c190bce"
+    },
+    {
+     "name": "take_part01-003.flac",
+     "bytes": 17707034,
+     "sha256": "feb00dbd26d37224dcc4d667e30e3859fb678ff3c3dfbc0887d0f8e9be3adb23"
+    },
+    {
+     "name": "take_part01-004.flac",
+     "bytes": 17476723,
+     "sha256": "48dde4387286b9ed2c690f858f0b0e1821d50dcd951f7e751eca8f68ce299e16"
+    },
+    {
+     "name": "take_part01-005.flac",
+     "bytes": 1388664,
+     "sha256": "b8b8e4f995cec8486f6c3456e2ed6e62812db2a9de1c040f8c1fba6c2c3a49c9"
+    }
+   ]
+  },
+  {
+   "id": "ym42_DU_65h_excerpt_emptystand",
+   "tier": "smoke",
+   "release": "ym42_DU_65h_excerpt_emptystand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 13839696,
+     "sha256": "e879f9dd71429159b58e11d611f3fb6159c09559b0a98dbd61d46d25c3c20352"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 13854528,
+     "sha256": "9d232bc3ee39e195cb9146ed1bef2f97ad787b0d7f26add574e7079d9e5f64e5"
     }
    ]
   }

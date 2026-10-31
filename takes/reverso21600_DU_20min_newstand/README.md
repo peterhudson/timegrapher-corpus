@@ -8,7 +8,7 @@ Dial up, on the new black stand (level), Mic 0/16, automatic gain off. Level. No
 Reverso replica (21,600 bph, manual wind), dial up, level on the new black stand, fully wound just before the start. Lift 52 deg.
 19:45:26.42Z to 20:05:26Z on 2026-10-30. Mic 0/16, AGC off. 2 x 600 s files.
 Grey-cradle partners: reverso21600_DU_2h (tilted cradle) and reverso21600_DU_level_overnight.
-Peter 2026-10-30: nothing done to the Reverso since the 10-10 takes (sat on his desk). The ~15 s/d rate difference vs the level overnight grey take is unexplained; candidates are temperature and slight orientation differences.
+The owner, 2026-10-30: nothing done to the Reverso since the 10-10 takes (sat on his desk). The ~15 s/d rate difference vs the level overnight grey take is unexplained; candidates are temperature and slight orientation differences.
 ```
 
 ## Reference: tg and timegrapher on this recording
