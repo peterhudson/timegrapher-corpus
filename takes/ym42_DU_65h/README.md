@@ -20,4 +20,4 @@ Start to stop: −186.65 s over 59 h 44 min 49 s, **−75.0 s/d** on the compute
 
 ## Room
 
-`raw/room-temperature.csv` is the room's heat-pump temperature (one row per change, 0.5 °C steps, UTC), 2026-10-25 16:00Z to 10-30 14:09Z. The heat pump is about 1.5 m from the stand. Over the take it reads 19 to 28 °C. The sound card's clock (`clock.csv`) follows it at about −0.24 ppm per °C with a 15 to 30 min lag.
+`raw/room-temperature.csv` is the room's heat-pump temperature (`utc,celsius`, one row per change, 0.5 °C steps), 2026-10-25 16:00Z to 10-30 14:09Z. The heat pump is about 1.5 m from the stand. Over the take it reads 19 to 28 °C. The sound card's clock (`clock.csv`) follows it at about −0.24 ppm per °C with a 15 to 30 min lag.
