@@ -16,7 +16,7 @@ timegrapher (main after PRs #8 and #10, `analyze --lift 52`) per segment: 307° 
 - Amplitude cycle: 60.03 s, 14.8° peak to peak, explaining 38% of the amplitude variation (false alarm 1e-24), which matches the fourth wheel.
 - Rate cycle: 5.00 s, 45.4 s/d peak to peak (false alarm 5e-30), which matches a 20-tooth escape wheel.
 
-So this watch shows the same once-a-minute amplitude dip as the Rolex Yacht-Master and the Patek 324 clone, but not the Dandong 3235 control.
+So this watch shows the same once-a-minute amplitude dip as the Yacht-Master replica and the Dandong 324 clone, but not the Dandong 3235 control.
 
 Room AC off for the whole take (the owner's AC log). On the grey USB stand in the dial-up position.
 

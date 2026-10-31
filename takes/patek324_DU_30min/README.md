@@ -1,4 +1,4 @@
-# Watch #2: Aquanaut-style case, Dandong Patek 324 clone, dial up, 30 min
+# Watch #2: Aquanaut-style case, Dandong 324 clone, dial up, 30 min
 
 ## Reference: tg on this recording
 tg is jnarvaezp/tg-mod built with lift angle 55°, run offline on these files. Values are medians of its 16 s windows. The 52° column is scaled by 52/55, since the lift angle for this movement isn't settled yet. Rate is on the uncalibrated sound-card clock. Beat error is measured from the unlock.

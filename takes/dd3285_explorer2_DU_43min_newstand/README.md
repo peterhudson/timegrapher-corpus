@@ -1,4 +1,4 @@
-# Explorer II replica, Dandong 3285 (Clean Factory), DU, 43 min (2026-10-18)
+# Explorer II replica, Dandong 3285 movement, DU, 43 min (2026-10-18)
 
 Dial up, on the new black stand (level), Mic 0/16, automatic gain off. Fully wound. Clock checks by photo at the start and end are in ground_truth.txt (the watch gained nothing measurable over 42 min 45 s). Lift 55° as tg. Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg.
 
