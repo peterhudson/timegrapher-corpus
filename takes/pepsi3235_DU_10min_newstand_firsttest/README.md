@@ -1,6 +1,6 @@
-# Pepsi (Dandong 3235 clone), DU, 10 min (2026-10-18)
+# Pepsi GMT replica, Dandong 3285 movement, DU, 10 min (2026-10-18)
 
-Dial up, on the new black stand (level), through the desktop app; mic level not recorded. The first take on the new stand, recorded with the desktop app on 2026-10-18. Lift 55° as tg. Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg. Partner take: pepsi3235_DU_7h.
+Dial up, on the new black stand (level), through the desktop app; mic level not recorded. The movement is a Dandong 3285; the id says 3235 from an early typo, and ids are never renamed. The first take on the new stand, recorded with the desktop app on 2026-10-18. Lift 55° as tg. Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg. Partner take: pepsi3235_DU_7h.
 
 ## Reference: tg and timegrapher on this recording
 
