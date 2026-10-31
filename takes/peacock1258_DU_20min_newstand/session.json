@@ -1,0 +1,29 @@
+{
+  "watch": "Peacock SL1258 (bench watch 4)",
+  "position": "DU",
+  "lift_deg": 52,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-30T19:13:58.384Z",
+  "ended_utc": "2026-10-30T19:33:58.460Z",
+  "duration_s": 1200.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-30T19:13:58.406Z",
+      "text": "start take_part01 (1200s left) mixer: Capture 0 [0%], AGC [off]"
+    },
+    {
+      "audio_s": 1199.727,
+      "utc": "2026-10-30T19:33:58.452Z",
+      "text": "arecord exit 0 for take_part01"
+    }
+  ],
+  "result": null
+}

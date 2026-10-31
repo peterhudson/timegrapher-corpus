@@ -1,0 +1,29 @@
+{
+  "watch": "Aquanaut-style case, Dandong clone of Patek 324 (bench watch 2)",
+  "position": "DU",
+  "lift_deg": 52,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-30T18:32:11.925Z",
+  "ended_utc": "2026-10-30T18:52:11.990Z",
+  "duration_s": 1200.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-30T18:32:11.949Z",
+      "text": "start take_part01 (1200s left) mixer: Capture 0 [0%], AGC [off]"
+    },
+    {
+      "audio_s": 1199.735,
+      "utc": "2026-10-30T18:52:11.983Z",
+      "text": "arecord exit 0 for take_part01"
+    }
+  ],
+  "result": null
+}

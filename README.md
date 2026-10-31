@@ -38,6 +38,14 @@ overnight Reverso take was level. Rates in the tg tables are on the sound
 card's own clock unless a table says otherwise; `clock.csv` lets you
 correct for it. `silence_empty_stand` is the pickup with no watch on it.
 
+Takes whose names end in `_newstand` (2026-10-18 on) were recorded on a
+second pickup, a level black stand with far less background noise, at Mic 0/16
+with automatic gain off. Most are 20-minute re-recordings of the watches in
+the grey-stand takes, so each watch can be compared across the two stands;
+each README names its partner take. `eta2824clone2_holder_DU_20min_greycradle`
+is the same movement back on the grey stand straight after its new-stand
+take.
+
 ## Tiers
 
 - **smoke**: runs through the engine; catches crashes and odd behaviour.

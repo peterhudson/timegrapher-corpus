@@ -1,0 +1,29 @@
+{
+  "watch": "Daytona case, Dandong 4130 clone with genuine balance, free sprung, not regulated (bench watch 1, the Black Dial Daytona)",
+  "position": "DU",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-30T18:09:48.890Z",
+  "ended_utc": "2026-10-30T18:29:48.951Z",
+  "duration_s": 1200.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-30T18:09:48.917Z",
+      "text": "start take_part01 (1200s left) mixer: Capture 0 [0%], AGC [off]"
+    },
+    {
+      "audio_s": 1199.733,
+      "utc": "2026-10-30T18:29:48.943Z",
+      "text": "arecord exit 0 for take_part01"
+    }
+  ],
+  "result": null
+}

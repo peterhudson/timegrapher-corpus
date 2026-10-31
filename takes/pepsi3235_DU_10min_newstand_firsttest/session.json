@@ -1,0 +1,23 @@
+{
+  "watch": "Pepsi (Dandong 3235 clone)",
+  "position": "DU",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "timegrapher-app 0.4.2",
+  "started_utc": "2026-10-18T06:21:06.165Z",
+  "ended_utc": "2026-10-18T06:31:21.493Z",
+  "duration_s": 612.0533333333333,
+  "segments": [
+    "take_part01-001.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 612.0533333333333,
+      "utc": "2026-10-18T06:31:18.235Z",
+      "text": "paused"
+    }
+  ],
+  "result": null
+}

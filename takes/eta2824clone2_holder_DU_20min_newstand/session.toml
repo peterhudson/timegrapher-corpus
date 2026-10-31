@@ -1,0 +1,12 @@
+watch = "ETA 2824-2 clone #2 (mid-tier, undecorated; not the movement of the eta2824_* takes), uncased in a plastic movement holder, rotor and automatic works removed"
+calibre = "2824-2 (clone)"
+bph = 28800
+lift = 50
+notes = "Dial up, on the new black stand (level), Mic 0/16, automatic gain off. Paired with a grey-cradle take of the same movement minutes later. Lift 50° as tg (tg's 55° amplitude scaled by 50/55). Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg. Partner take: eta2824clone2_holder_DU_20min_greycradle."
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+
+[[recording]]
+file = "."
+position = "DU"
+wind_h = 0
+reference = { rate = 14.54, amplitude = 290, beat_error = 0.10, source = "tg, same file, lift 50° (scaled from 55°), card clock, median of its windows" }

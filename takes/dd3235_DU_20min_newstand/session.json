@@ -1,0 +1,29 @@
+{
+  "watch": "Dandong 3235 clone in a 41 mm Submariner case, genuine Rolex balance, escape wheel and pallet fork (bench watch 3)",
+  "position": "DU",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-30T20:27:38.590Z",
+  "ended_utc": "2026-10-30T20:47:38.731Z",
+  "duration_s": 1200.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-30T20:27:38.610Z",
+      "text": "start take_part01 (1200s left) mixer: Capture 0 [0%], AGC [off]"
+    },
+    {
+      "audio_s": 1199.737,
+      "utc": "2026-10-30T20:47:38.724Z",
+      "text": "arecord exit 0 for take_part01"
+    }
+  ],
+  "result": null
+}

@@ -1,0 +1,12 @@
+watch = "Aquanaut-style case, Dandong clone of Patek 324 (bench watch 2)"
+calibre = "324 (clone)"
+bph = 28800
+lift = 52
+notes = "Dial up, on the new black stand (level), Mic 0/16, automatic gain off. Does not hack. Lift 52° as tg (tg's 55° amplitude scaled by 52/55). Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg. Partner take: patek324_DU_30min."
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+
+[[recording]]
+file = "."
+position = "DU"
+wind_h = 0
+reference = { rate = -19.07, amplitude = 240, beat_error = 0.45, source = "tg, same file, lift 52° (scaled from 55°), card clock, median of its windows" }
