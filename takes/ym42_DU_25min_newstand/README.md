@@ -1,3 +1,0 @@
-# Yacht-Master 42 replica, Dandong 3235 movement, DU, 25 min (2026-10-19)
-
-Dial up, on the new black stand (level), through the desktop app; mic level not recorded. The same watch as the ym42_* takes. Recorded with the desktop app on 2026-10-19 at a low level (peaks about -28 dBFS). State of wind not recorded. Smoke only, no reference: tg's rate swings between about -80 and +60 s/d across the take while timegrapher holds near +42 s/d with 0.12% scatter, so tg cannot stand as the truth. The hash rule put it in holdout; it is smoke instead because it has no usable reference. Lift 55°. Rates on the sound card clock; clock.csv corrects for it. Partner take: ym42_DU_2h.
