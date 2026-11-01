@@ -1,0 +1,5 @@
+Watch: Dandong 3285 (Explorer II replica), fully wound, hacked and set to the screen clock, dial up on the new black stand. Mic 0/16, AGC off.
+2026-10-18T18:13:24.4Z start (the owner's reading; 49 s before arecord started at 18:14:12.98Z, watch untouched in between): computer 11:13:24.4 PDT, watch 11:13:24 -> -0.4 s (+/- ~0.3)
+Photo IMG_5706 (EXIF 2026-10-18 11:13:24.92 PDT): straight-on; seconds hand by angle 24.0 s, clock 11:13:24.4 -> -0.4 s confirmed.
+2026-10-18T18:56:09.2Z end (the owner's reading): computer 11:56:09.2 PDT, watch 11:56:08.8 -> -0.4 s. Net 0.0 +/- 0.5 s over 2564.8 s (42.7 min).
+End photo IMG_5707 saved (ground_truth_end_IMG_5707.jpg).

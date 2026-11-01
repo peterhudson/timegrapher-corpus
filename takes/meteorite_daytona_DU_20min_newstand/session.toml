@@ -1,0 +1,12 @@
+watch = "Meteorite-dial Daytona case, Dandong 4130 clone, regulated"
+calibre = "4130 (clone)"
+bph = 28800
+lift = 55
+notes = "Dial up, on the new black stand (level), Mic 0/16, automatic gain off. A second 4130 Daytona, not the watch of daytona4130_DU_30min. Lift 55° as tg. Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg. Partner take: meteorite_daytona_DU_75min."
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+
+[[recording]]
+file = "."
+position = "DU"
+wind_h = 0
+reference = { rate = 7.76, amplitude = 302, beat_error = 0.01, source = "tg, same file, lift 55°, card clock, median of its windows" }

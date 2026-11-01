@@ -1,0 +1,51 @@
+{
+  "watch": "",
+  "position": "DU",
+  "lift_deg": 52.0,
+  "bph": 28800,
+  "device": "Default ALSA Output (currently PipeWire Media Server)",
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "timegrapher-app 0.4.0",
+  "started_utc": "2026-10-17T05:21:20.964Z",
+  "ended_utc": "2026-10-17T06:36:34.358Z",
+  "duration_s": 4497.92,
+  "segments": [
+    "audio-001.wav",
+    "audio-002.wav"
+  ],
+  "notes": [
+    {
+      "audio_s": 5.034666666666666,
+      "utc": "2026-10-17T05:21:26.041Z",
+      "text": "position DU"
+    },
+    {
+      "audio_s": 4497.92,
+      "utc": "2026-10-17T06:36:19.036Z",
+      "text": "paused"
+    }
+  ],
+  "result": {
+    "amplitude_deg": 270.8394011370875,
+    "amplitude_error_deg": 8.327769245107286,
+    "amplitude_even_deg": 250.7875508308667,
+    "amplitude_odd_deg": 289.32819857342014,
+    "beat_error_ms": 1.016685547052563,
+    "beat_error_unlock_error_ms": 0.45615677604037086,
+    "beat_error_unlock_ms": -0.3093603321503092,
+    "beats_used": 153,
+    "bph": 28800,
+    "caveats": [],
+    "clipped_beats": 0,
+    "clipped_fraction": 0.0,
+    "jitter_us": 294.699857651176,
+    "rate_error_s_per_day": 0.6078684562111731,
+    "rate_s_per_day": 10.938763740223578,
+    "snr": 7.366344928741455,
+    "span_s": 19.87270254678151,
+    "time_s": 4497.668912652523,
+    "timing_scatter_fraction": 0.002357598861209408,
+    "watch_heard": true
+  }
+}

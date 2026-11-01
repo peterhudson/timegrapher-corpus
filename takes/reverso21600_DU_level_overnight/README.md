@@ -1,4 +1,4 @@
-# JLC Reverso replica (manual wind, 21,600 bph), dial up, level, full wind → 15.8 h run-down
+# Reverso Duo replica, 21,600 bph movement (manual wind, calibre unknown), dial up, level, full wind → 15.8 h run-down
 
 ## Reference: tg
 tg-mod offline analyze at 21,600 (auto-detected) and lift angle 55°, amplitude scaled by 52/55; engine `timegrapher analyze --lift 52` on main 8ec7b89. Every 8th file (12 of 96, 10 min each), card clock, median and mean of tg's step-3 readings per file (5,841 each; tg's final line is only its last window).

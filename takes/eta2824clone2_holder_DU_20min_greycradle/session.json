@@ -1,0 +1,29 @@
+{
+  "watch": "ETA 2824-2 clone #2 (mid-tier, undecorated; not the movement of the eta2824_* takes), uncased in a plastic movement holder, rotor and automatic works removed",
+  "position": "DU",
+  "lift_deg": 50,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-30T21:18:32.934Z",
+  "ended_utc": "2026-10-30T21:38:33.082Z",
+  "duration_s": 1200.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-30T21:18:32.961Z",
+      "text": "start take_part01 (1200s left) mixer: Capture 6 [38%], AGC [off]"
+    },
+    {
+      "audio_s": 1199.731,
+      "utc": "2026-10-30T21:38:33.073Z",
+      "text": "arecord exit 0 for take_part01"
+    }
+  ],
+  "result": null
+}

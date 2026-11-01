@@ -1,0 +1,12 @@
+watch = "Daytona case, Dandong 4130 clone with genuine balance, free sprung, not regulated (bench watch 1, the Black Dial Daytona)"
+calibre = "4130 (clone)"
+bph = 28800
+lift = 55
+notes = "Dial up, on the new black stand (level), Mic 0/16, automatic gain off. The same watch as daytona4130_DU_30min. Lift 55° as tg. Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg. Partner take: daytona4130_DU_30min."
+wheels = { "escape wheel (20 teeth)" = 5.0 }
+
+[[recording]]
+file = "."
+position = "DU"
+wind_h = 0
+reference = { rate = 3.52, amplitude = 326, beat_error = 0.31, source = "tg, same file, lift 55°, card clock, median of its windows" }

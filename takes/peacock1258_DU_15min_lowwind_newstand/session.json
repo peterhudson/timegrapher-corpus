@@ -1,0 +1,28 @@
+{
+  "watch": "Nautilus-style case, Peacock SL1258 (bench watch 4)",
+  "position": "DU",
+  "lift_deg": 52,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-30T18:57:02.566Z",
+  "ended_utc": "2026-10-30T19:12:03.385Z",
+  "duration_s": 900.0,
+  "segments": [
+    "take_part01-001.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-30T18:57:02.592Z",
+      "text": "start take_part01 (900s left) mixer: Capture 0 [0%], AGC [off]"
+    },
+    {
+      "audio_s": 900.0,
+      "utc": "2026-10-30T19:12:03.376Z",
+      "text": "arecord exit 0 for take_part01"
+    }
+  ],
+  "result": null
+}

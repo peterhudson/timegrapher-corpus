@@ -1,4 +1,4 @@
-# Yacht-Master 42 (cal. 3235), dial up, 2 hours
+# Yacht-Master 42 replica, Dandong 3235 movement, dial up, 2 hours
 
 ## Reference: tg on this recording (lift angle 55°)
 tg is jnarvaezp/tg-mod built with lift angle 55° (the value for 32xx movements), run offline. It was run on three of the twelve segments because each takes 10–20 min. Values are medians of its 16 s windows. Rate is on the uncalibrated sound-card clock. Beat error is measured from the unlock.

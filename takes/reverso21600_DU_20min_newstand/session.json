@@ -1,0 +1,29 @@
+{
+  "watch": "Reverso Duo replica, 21,600 bph movement (manual wind, calibre unknown)",
+  "position": "DU",
+  "lift_deg": 52,
+  "bph": 21600,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-30T19:45:26.398Z",
+  "ended_utc": "2026-10-30T20:05:26.513Z",
+  "duration_s": 1200.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-30T19:45:26.423Z",
+      "text": "start take_part01 (1200s left) mixer: Capture 0 [0%], AGC [off]"
+    },
+    {
+      "audio_s": 1199.732,
+      "utc": "2026-10-30T20:05:26.505Z",
+      "text": "arecord exit 0 for take_part01"
+    }
+  ],
+  "result": null
+}

@@ -2,6 +2,23 @@
  "schema": 1,
  "takes": [
   {
+   "id": "blackdial_daytona_DU_20min_newstand",
+   "tier": "referenced",
+   "release": "blackdial_daytona_DU_20min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 28799237,
+     "sha256": "50abcebba4660056025d607ef185b1c5c181819dc37646e53477545fc795e7b5"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 28948945,
+     "sha256": "e64e0590735c987e340dfca78f36bb5ace1e5414c08f280e919bfab518e0f5ad"
+    }
+   ]
+  },
+  {
    "id": "daytona4130_DU_30min",
    "tier": "referenced",
    "release": "daytona4130_DU_30min",
@@ -24,6 +41,23 @@
    ]
   },
   {
+   "id": "dd3235_DU_20min_newstand",
+   "tier": "holdout",
+   "release": "dd3235_DU_20min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 27485998,
+     "sha256": "3654d8a3a5d98024e2e5616eee640b1bb2af57a8a28ecb1db5cb8f05608cb83a"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 27812139,
+     "sha256": "c7865cb444b883385854a85cdfcffb5a9c8c459441cade3bed7ab69af3e66677"
+    }
+   ]
+  },
+  {
    "id": "dd3235_DU_30min",
    "tier": "referenced",
    "release": "dd3235_DU_30min",
@@ -42,6 +76,18 @@
      "name": "take_part01-003.flac",
      "bytes": 35361935,
      "sha256": "1c089c584a75a66feda4a5e5d286575ecb5dc722fc74f0a6ab9fcab243bfe2d4"
+    }
+   ]
+  },
+  {
+   "id": "dd3285_explorer2_DU_43min_newstand",
+   "tier": "referenced",
+   "release": "dd3285_explorer2_DU_43min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 127170011,
+     "sha256": "cfc52f3009aa137d3b3ece16e5179e7fff127273a2cc596867c6282e73b0edd5"
     }
    ]
   },
@@ -102,6 +148,103 @@
    ]
   },
   {
+   "id": "eta2824clone2_holder_DD_slowmo_newstand",
+   "tier": "smoke",
+   "release": "eta2824clone2_holder_DD_slowmo_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 6435765,
+     "sha256": "6076699dfa95b44e927ee508cf70836472ad06d538609f64cd665ce7bd9f2a9f"
+    }
+   ]
+  },
+  {
+   "id": "eta2824clone2_holder_DU_20min_greycradle",
+   "tier": "referenced",
+   "release": "eta2824clone2_holder_DU_20min_greycradle",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 32501471,
+     "sha256": "b10c240146fcd568c76602a5f13b8b928c209e5c5a9cf46f19a7a33959e93b1a"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 32454261,
+     "sha256": "39e1d8e665fd6473202e2095ffe227f257a0a632f78a17e79380c56462d9cbb7"
+    }
+   ]
+  },
+  {
+   "id": "eta2824clone2_holder_DU_20min_newstand",
+   "tier": "holdout",
+   "release": "eta2824clone2_holder_DU_20min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 29555005,
+     "sha256": "322cdc731c8655662133b5afb95ce100262411d48b6a61f0bcd1e2fbb5f58aba"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 29504235,
+     "sha256": "9d2af98e1481b4662b6b8a8372d20fa277124ed3735cf4900ca14e968ae88187"
+    }
+   ]
+  },
+  {
+   "id": "meteorite_daytona_DU_20min_newstand",
+   "tier": "referenced",
+   "release": "meteorite_daytona_DU_20min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 27591336,
+     "sha256": "49a0396481f416f8d469818f9a12ba3c8d523a0549fbede6a22ac03b3fe6fbb6"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 27458621,
+     "sha256": "6fec9340c5ce14f9ee850ed56fcb154ac97e3799785fe44431a71f3ac1b82226"
+    }
+   ]
+  },
+  {
+   "id": "meteorite_daytona_DU_75min",
+   "tier": "smoke",
+   "release": "meteorite_daytona_DU_75min",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 192077399,
+     "sha256": "544415a65d1883e022db930f91b6d15035082f039a5a499c779432223428d8d8"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 47899771,
+     "sha256": "5791f62cd48894fdd01c7903e64612232eac3568cbb670a87b96e50c6e541b61"
+    }
+   ]
+  },
+  {
+   "id": "patek324_DU_20min_newstand",
+   "tier": "referenced",
+   "release": "patek324_DU_20min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 26703693,
+     "sha256": "e996583c399ad9be3299117992f8b25c5720df18e0b718e2917d36f132233847"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 26612537,
+     "sha256": "2e36f5bf8fb454e391ea96c5c022b40e16ab1e6ff0a28f9e7a9f35414036c3a8"
+    }
+   ]
+  },
+  {
    "id": "patek324_DU_30min",
    "tier": "referenced",
    "release": "patek324_DU_30min",
@@ -124,6 +267,35 @@
    ]
   },
   {
+   "id": "peacock1258_DU_15min_lowwind_newstand",
+   "tier": "referenced",
+   "release": "peacock1258_DU_15min_lowwind_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 43603448,
+     "sha256": "54ec88db08ccb7c7f0a8b9769b46bdfd27177095d6a506119cc7d50c64ff9021"
+    }
+   ]
+  },
+  {
+   "id": "peacock1258_DU_20min_newstand",
+   "tier": "holdout",
+   "release": "peacock1258_DU_20min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 28449823,
+     "sha256": "3d8409ff8bec143ffd7b287140bac40b45fa86e4ebd82a2b4812081c18225492"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 28421603,
+     "sha256": "43de95c72d8116f554bf7f153033b41a1b123208fb298edeb7dca3eb2ce66af4"
+    }
+   ]
+  },
+  {
    "id": "peacock1258_DU_30min",
    "tier": "referenced",
    "release": "peacock1258_DU_30min",
@@ -142,6 +314,18 @@
      "name": "take_part01-003.flac",
      "bytes": 34538283,
      "sha256": "07d2a8c118d73b119e760c58bb9d4bfb0f96000ccedbc70d9583637805031efa"
+    }
+   ]
+  },
+  {
+   "id": "pepsi3235_DU_10min_newstand_firsttest",
+   "tier": "referenced",
+   "release": "pepsi3235_DU_10min_newstand_firsttest",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 17419586,
+     "sha256": "d506121f79f27ee7df01f4ff69fc6362d974141515e20f4f9a5767c58a5e9e32"
     }
    ]
   },
@@ -189,6 +373,23 @@
      "name": "take_part01-008.flac",
      "bytes": 91118203,
      "sha256": "341ab2f68aef908b199fc50e6c67d85cac3c9c724d0c95e38414c7b366338c65"
+    }
+   ]
+  },
+  {
+   "id": "reverso21600_DU_20min_newstand",
+   "tier": "referenced",
+   "release": "reverso21600_DU_20min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 27475813,
+     "sha256": "a1af896859542cc3411d6ca108d50c42cc25055d73fc21f872e3ad73566030b6"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 27476086,
+     "sha256": "2ce49a3c300ded18b5b46c8b901195add284c09ea010881c127559b5d78f9031"
     }
    ]
   },
