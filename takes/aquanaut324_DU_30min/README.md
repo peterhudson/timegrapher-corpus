@@ -1,5 +1,7 @@
 # Watch #2: Aquanaut-style case, Dandong 324 clone, dial up, 30 min
 
+First named `patek324_DU_30min`; renamed on 2026-11-01 so the id does not name the original brand. The audio stays on the release tagged `patek324_DU_30min` (corpus.json's `release`).
+
 ## Reference: tg on this recording
 tg is jnarvaezp/tg-mod built with lift angle 55°, run offline on these files. Values are medians of its 16 s windows. The 52° column is scaled by 52/55, since the lift angle for this movement isn't settled yet. Rate is on the uncalibrated sound-card clock. Beat error is measured from the unlock.
 

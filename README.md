@@ -20,8 +20,10 @@ against an independent reading.
   (`02` when a take was carried on in a new run), `NNN` the file within it,
   so name order is time order. Takes recorded before 2026-10-13 had other
   names; each take's README lists them.
-- The audio (FLAC, 48 kHz, 16-bit mono) is attached to the release tagged
-  `<take>`, not stored in git. `corpus.json` lists every file with its size
+- The audio (FLAC, 48 kHz, 16-bit mono) is attached to the release that
+  `corpus.json` names in the take's `release` field, not stored in git. That
+  is the take's id, except for the four takes renamed on 2026-11-01
+  (`scripts/renames-2026-11.json`), which keep their first tags. `corpus.json` lists every file with its size
   and SHA-256.
 - `scripts/fetch.py DEST` downloads and checks the audio, needing nothing
   but Python; it leaves out example and holdout takes unless asked (below).
