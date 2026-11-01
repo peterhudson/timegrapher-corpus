@@ -3,7 +3,7 @@
 
     python3 scripts/fetch.py [--holdout] DEST [TAKE ...]
 
-Each take's audio is attached to the release tagged with the take's name.
+Each take's audio is attached to the release corpus.json names in its "release" field.
 Files land in DEST/<take>/<file>, next to a copy of the take's metadata, so
 `timegrapher regress DEST` sees the same layout as the private recordings.
 A file already present with the right SHA-256 is not downloaded again.

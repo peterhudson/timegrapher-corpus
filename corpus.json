@@ -2,6 +2,45 @@
  "schema": 1,
  "takes": [
   {
+   "id": "aquanaut324_DU_20min_newstand",
+   "tier": "referenced",
+   "release": "patek324_DU_20min_newstand",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 26703693,
+     "sha256": "e996583c399ad9be3299117992f8b25c5720df18e0b718e2917d36f132233847"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 26612537,
+     "sha256": "2e36f5bf8fb454e391ea96c5c022b40e16ab1e6ff0a28f9e7a9f35414036c3a8"
+    }
+   ]
+  },
+  {
+   "id": "aquanaut324_DU_30min",
+   "tier": "referenced",
+   "release": "patek324_DU_30min",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 35008391,
+     "sha256": "56af558ccba1198a54efc8ba3abe5b8ee8bedbeb39de2dd901fec13e4f3cf660"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 35004799,
+     "sha256": "b90e13d4d106ac1f36fffad8884b3e515756c2a7972d8e7df01dce5d368eacbb"
+    },
+    {
+     "name": "take_part01-003.flac",
+     "bytes": 35003604,
+     "sha256": "fe0932f15ba2c9c28d75b73710916f929eff392d35df77983e61d278de55d248"
+    }
+   ]
+  },
+  {
    "id": "blackdial_daytona_DU_20min_newstand",
    "tier": "referenced",
    "release": "blackdial_daytona_DU_20min_newstand",
@@ -228,45 +267,6 @@
    ]
   },
   {
-   "id": "patek324_DU_20min_newstand",
-   "tier": "referenced",
-   "release": "patek324_DU_20min_newstand",
-   "files": [
-    {
-     "name": "take_part01-001.flac",
-     "bytes": 26703693,
-     "sha256": "e996583c399ad9be3299117992f8b25c5720df18e0b718e2917d36f132233847"
-    },
-    {
-     "name": "take_part01-002.flac",
-     "bytes": 26612537,
-     "sha256": "2e36f5bf8fb454e391ea96c5c022b40e16ab1e6ff0a28f9e7a9f35414036c3a8"
-    }
-   ]
-  },
-  {
-   "id": "patek324_DU_30min",
-   "tier": "referenced",
-   "release": "patek324_DU_30min",
-   "files": [
-    {
-     "name": "take_part01-001.flac",
-     "bytes": 35008391,
-     "sha256": "56af558ccba1198a54efc8ba3abe5b8ee8bedbeb39de2dd901fec13e4f3cf660"
-    },
-    {
-     "name": "take_part01-002.flac",
-     "bytes": 35004799,
-     "sha256": "b90e13d4d106ac1f36fffad8884b3e515756c2a7972d8e7df01dce5d368eacbb"
-    },
-    {
-     "name": "take_part01-003.flac",
-     "bytes": 35003604,
-     "sha256": "fe0932f15ba2c9c28d75b73710916f929eff392d35df77983e61d278de55d248"
-    }
-   ]
-  },
-  {
    "id": "peacock1258_DU_15min_lowwind_newstand",
    "tier": "referenced",
    "release": "peacock1258_DU_15min_lowwind_newstand",
@@ -318,7 +318,7 @@
    ]
   },
   {
-   "id": "pepsi3235_DU_10min_newstand_firsttest",
+   "id": "pepsi3285_DU_10min_newstand_firsttest",
    "tier": "referenced",
    "release": "pepsi3235_DU_10min_newstand_firsttest",
    "files": [
@@ -330,7 +330,7 @@
    ]
   },
   {
-   "id": "pepsi3235_DU_7h",
+   "id": "pepsi3285_DU_7h",
    "tier": "example",
    "release": "pepsi3235_DU_7h",
    "files": [
