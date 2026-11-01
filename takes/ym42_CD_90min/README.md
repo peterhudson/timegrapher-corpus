@@ -1,4 +1,4 @@
-# Yacht-Master 42 (cal. 3235), crown down, fully wound just before the start
+# Yacht-Master 42 replica, Dandong 3235 movement, crown down, fully wound just before the start
 
 ## Reference: tg on this recording
 tg is jnarvaezp/tg-mod built with lift angle 55°, run offline (`TG_TRACE=1 xvfb-run -a tg-timer analyze`) on WAVs converted from these FLACs. Values are medians of its readings. Rate is on the uncalibrated sound-card clock. Beat error is measured from the unlock. Segment 07 is the trimmed 515 s file.

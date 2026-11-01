@@ -1,4 +1,4 @@
-# Yacht-Master 42 (cal. 3235), crown left (12 down), 90 min, wound earlier today (full wind at about 15:30Z)
+# Yacht-Master 42 replica, Dandong 3235 movement, crown left (12 down), 90 min, wound earlier today (full wind at about 15:30Z)
 
 ## Reference: tg on this recording
 tg is jnarvaezp/tg-mod built with lift angle 55°, run offline (`TG_TRACE=1 xvfb-run -a tg-timer analyze`) on WAVs converted from these FLACs. Its amplitude and beat error are medians of its readings, and its rate is shown both as the median and as the mean of its readings. Rate is on the uncalibrated sound-card clock. Beat error is measured from the unlock.

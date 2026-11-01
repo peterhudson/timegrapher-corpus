@@ -1,4 +1,4 @@
-# Peacock SL1258 (bench watch 4), DU, 15 min (2026-10-30)
+# Nautilus-style case, Peacock SL1258 (bench watch 4), DU, 15 min (2026-10-30)
 
 Dial up, on the new black stand (level), Mic 0/16, automatic gain off. LOW WIND: 5 crown turns from stopped (the seconds hand started at turn 2), so the amplitude is low. Does not hack. Lift 52° as tg (tg's 55° amplitude scaled by 52/55). Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg. Partner take: peacock1258_DU_30min.
 

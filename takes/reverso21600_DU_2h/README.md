@@ -1,4 +1,4 @@
-# Reverso Duo replica (manual wind, unknown movement), 21,600 bph, dial up, about 2 h 4 min
+# Reverso Duo replica, 21,600 bph movement (manual wind, calibre unknown), dial up, about 2 h 4 min
 
 ## Reference: tg
 tg-mod offline analyze at 21,600 (auto-detected) and lift angle 55°, amplitude scaled by 52/55; engine `timegrapher analyze --lift 52` on main 95bb92a. Card clock, per file, median of tg's step-3 readings.

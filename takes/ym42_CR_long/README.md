@@ -1,4 +1,4 @@
-# Yacht-Master 42 (cal. 3235), crown right (12 up), about 2.4 h, wound at about 15:30Z
+# Yacht-Master 42 replica, Dandong 3235 movement, crown right (12 up), about 2.4 h, wound at about 15:30Z
 
 ## Reference: tg on this recording
 tg is jnarvaezp/tg-mod built with lift angle 55°, run offline (`TG_TRACE=1 xvfb-run -a tg-timer analyze`) on WAVs converted from these FLACs. Its amplitude and beat error are medians of its readings, and its rate is both the median and the mean of its readings. Rate is on the uncalibrated sound-card clock, and beat error is from the unlock. timegrapher is `analyze --lift 55` on main 2045e5e: its rate is a fit over the whole file, and the 10 s window median comes from `--windows`. part01-03 spans the suspend: its audio jumps 1,283 s at 357 s in.

@@ -1,4 +1,4 @@
-# Yacht-Master 42 (cal. 3235), crown up, overnight run (stopped early after 2 h 17 min)
+# Yacht-Master 42 replica, Dandong 3235 movement, crown up, overnight run (stopped early after 2 h 17 min)
 
 ## Reference: tg on this recording
 tg is jnarvaezp/tg-mod built with lift angle 55° (the 3235's), run offline on each 10-min file. Values are medians of its 16 s windows; rate on the uncalibrated sound-card clock; beat error from the unlock. timegrapher is `analyze --lift 55` on main with PR #27.

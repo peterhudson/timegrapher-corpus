@@ -1,4 +1,4 @@
-# Reverso Duo replica (manual wind, unknown movement), DU, 20 min (2026-10-30)
+# Reverso Duo replica, 21,600 bph movement (manual wind, calibre unknown), DU, 20 min (2026-10-30)
 
 Dial up, on the new black stand (level), Mic 0/16, automatic gain off. Level. Nothing was done to the watch since the 10-10 takes; its rate here matches the owner's bench timegrapher after a run-down (+3 to +7 s/d at 235-245°), so the gap to the grey takes is state of wind or isochronism, not shown to be temperature. Lift 52° as tg (tg's 55° amplitude scaled by 52/55). Rates on the sound card clock, as tg reads them; clock.csv corrects for it. Beat error is from the unlock as tg. Partner take: reverso21600_DU_level_overnight.
 
