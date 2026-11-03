@@ -1,0 +1,4 @@
+Watch: Pepsi (Dandong 3235), fully wound, hacked and set to the screen clock, dial up on the new black stand. Matched re-run of corpus pepsi3235_DU_7h (grey cradle). Recorder: tools/record_long.sh, hw direct, Mic 0/16, AGC off.
+2026-10-18T18:59:26.9Z start (the owner's reading, before arecord start): computer 11:59:26.9 PDT, watch 11:59:26.4 -> -0.5 s
+Start photo IMG_5708 (EXIF 2026-10-18 11:59:27.41 PDT): screen 11:59:26.9, seconds hand at about 26.4 s (consistent with the owner's reading) -> -0.5 s.
+2026-10-19T03:54:06.5Z end (the owner's reading, photo IMG_5710): computer 20:54:06.5 PDT, watch 20:54:09.8 -> +3.3 s

@@ -1,0 +1,36 @@
+{
+  "watch": "Pepsi GMT replica, Dandong 3285 movement",
+  "position": "DU",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "arecord (tools/record_long.sh)",
+  "started_utc": "2026-10-18T19:00:56.314Z",
+  "ended_utc": "2026-10-19T03:56:37.512Z",
+  "duration_s": 32140.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac",
+    "take_part01-003.flac",
+    "take_part01-004.flac",
+    "take_part01-005.flac",
+    "take_part01-006.flac",
+    "take_part01-007.flac",
+    "take_part01-008.flac",
+    "take_part01-009.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 0.0,
+      "utc": "2026-10-18T19:00:56.338Z",
+      "text": "start take_part01 (32400s left) mixer: Capture 0 [0%], AGC [off]"
+    },
+    {
+      "audio_s": 32140.0,
+      "utc": "2026-10-19T03:56:37.512Z",
+      "text": "stopped manually after the owner's end photo"
+    }
+  ],
+  "result": null
+}

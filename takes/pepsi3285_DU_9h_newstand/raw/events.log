@@ -1,0 +1,5 @@
+2026-10-18T19:00:56.338083417Z start take_part01 (32400s left) mixer: Capture 0 [0%], AGC [off]
+Recording WAVE 'take_part01.wav' : Signed 16 bit Little Endian, Rate 48000 Hz, Mono
+Aborted by signal Terminated...
+arecord failed with exit status 1.
+2026-10-19T03:56:37.512970516Z stopped manually after the owner's end photo
