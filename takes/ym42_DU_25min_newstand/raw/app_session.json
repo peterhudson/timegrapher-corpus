@@ -1,0 +1,49 @@
+{
+  "watch": "YM on clean mic",
+  "position": "DU",
+  "lift_deg": 55.0,
+  "bph": null,
+  "device": "Default ALSA Output (currently PipeWire Media Server)",
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "timegrapher-app 0.4.2",
+  "started_utc": "2026-10-19T04:23:33.646Z",
+  "ended_utc": "2026-10-19T04:48:27.009Z",
+  "duration_s": 1471.3173333333334,
+  "segments": [
+    "audio-001.wav"
+  ],
+  "notes": [
+    {
+      "audio_s": 1471.3173333333334,
+      "utc": "2026-10-19T04:48:04.979Z",
+      "text": "paused"
+    }
+  ],
+  "result": {
+    "amplitude_deg": 259.4318201822162,
+    "amplitude_error_deg": 1.0474642176708295,
+    "amplitude_even_deg": 260.41152488479645,
+    "amplitude_odd_deg": 256.08618876657187,
+    "beat_error_ms": 0.0008585153213793256,
+    "beat_error_unlock_error_ms": 0.006981366449690108,
+    "beat_error_unlock_ms": 0.18833273886909913,
+    "beats_used": 81,
+    "bph": 28800,
+    "caveats": [
+      {
+        "code": "clock_unknown"
+      }
+    ],
+    "clipped_beats": 0,
+    "clipped_fraction": 0.0,
+    "jitter_us": 108.61157041449586,
+    "rate_error_s_per_day": 8.371694023698955,
+    "rate_s_per_day": 65.90172212408021,
+    "snr": 529.54345703125,
+    "span_s": 9.992838058949019,
+    "time_s": 1470.6630307029648,
+    "timing_scatter_fraction": 0.0008688925633159669,
+    "watch_heard": true
+  }
+}

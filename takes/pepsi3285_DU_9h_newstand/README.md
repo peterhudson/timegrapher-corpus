@@ -1,0 +1,9 @@
+# Pepsi GMT replica, Dandong 3285 movement, dial up, 8 h 56 min, new stand (2026-10-18)
+
+- **The same watch as `pepsi3285_DU_7h`** (grey cradle, 2026-10-17), recorded the next day as its matched re-run: **fully wound**, hacked and set to the screen clock, **dial up on the new black stand (level)**. Room quiet.
+- Recorded with `arecord` (the recordings repo's `tools/record_long.sh`), hw direct, **Mic 0/16, automatic gain off**, 48 kHz, 16-bit mono, from **2026-10-18T19:00:56.314Z to 2026-10-19T03:56:37.512Z**: **32,140 s in one continuous run**, no breaks. Files `take_part01-001.flac` … `-008.flac` (1 h each) and `-009.flac` (3,340 s). Peak about −0.2 dBFS at full wind, no clipping.
+- **Movement: Dandong 3285** (the take was first labelled 3235, a typo that carried forward; `raw/` keeps the notes as written at the time). Lift 55°, 28,800 bph.
+- `clock.csv` is the recorder's clock log (Unix time against frames, every 60 s, 532 rows), as in the other `record_long` takes; `raw/clocklog.txt` is the raw log. It puts the sound card about 11 ppm fast.
+- **Ground truth:** the watch was read against the computer clock at the start and the end (`raw/ground_truth.txt`): −0.5 s at 18:59:26.9Z and +3.3 s at 03:54:06.5Z, so **+3.8 s over 8.91 h (+10.2 ± 1.3 s/d)**.
+- **Tier: example** (no tg reference; `regress` never reads it). It has no `session.toml`, like `pepsi3285_DU_7h`. **Holdout rule:** `scripts/holdout_rule.py` on `take_part01-001.flac` gives SHA-256 first byte 0x10, which is holdout; it is an example instead, because it was measured before import (the timegrapher engine was run on it on 2026-10-19) and it has no reference that a holdout could be scored against.
+- Added as a long single-run take on the new stand with a clock ground truth, and as the partner of `pepsi3285_DU_7h` (same watch, grey cradle vs new stand).

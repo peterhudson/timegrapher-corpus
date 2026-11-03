@@ -1,0 +1,18 @@
+{
+  "watch": "Yacht-Master 42 replica, Dandong 3235 movement",
+  "position": "DU",
+  "lift_deg": 55,
+  "bph": 28800,
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "timegrapher-app 0.4.2 (excerpt cut sample-exact from the app's WAV)",
+  "started_utc": "2026-10-30T09:16:42.402Z",
+  "ended_utc": "2026-10-30T09:36:42.402Z",
+  "duration_s": 1200.0,
+  "segments": [
+    "take_part01-001.flac",
+    "take_part01-002.flac"
+  ],
+  "notes": [],
+  "result": null
+}
