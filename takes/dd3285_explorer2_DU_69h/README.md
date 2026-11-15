@@ -9,5 +9,5 @@ Example take: it is public and can be fetched by name (`scripts/fetch.py DEST dd
 - **Breaks:** the app logged 19 breaks, each with a gap of 0 s and the note "paused".
   - 15 come in a burst between 2026-11-10 19:33Z and 21:49Z.
   - 4 come on 11-12, at 16:17Z, 19:28Z, 20:39Z and 23:15Z.
-  - Some files between them are only a few kilobytes long (`take_part01-002` among them). All are kept, so the files join as the app recorded them.
+  - Some files between them are only 1 to 3 kilobytes long (`take_part01-017`, `-020` and `-025`). All are kept, so the files join as the app recorded them.
 - `clock.csv` is the app's clock log for the whole take (Unix time against audio frames).
