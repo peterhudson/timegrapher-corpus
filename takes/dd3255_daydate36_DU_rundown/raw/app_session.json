@@ -8,8 +8,8 @@
   "bits": 16,
   "software": "timegrapher-app 1.0.0",
   "started_utc": "2026-11-14T05:45:12.534Z",
-  "ended_utc": "2026-11-15T18:21:00.848Z",
-  "duration_s": 131748.71516666666,
+  "ended_utc": "2026-11-15T23:33:56.077Z",
+  "duration_s": 150523.82016666667,
   "segments": [
     "audio-001.flac",
     "audio-002.flac",
@@ -106,7 +106,24 @@
     "audio-093.flac",
     "audio-094.flac",
     "audio-095.flac",
-    "audio-096.wav"
+    "audio-096.flac",
+    "audio-097.flac",
+    "audio-098.flac",
+    "audio-099.flac",
+    "audio-100.flac",
+    "audio-101.flac",
+    "audio-102.flac",
+    "audio-103.flac",
+    "audio-104.flac",
+    "audio-105.flac",
+    "audio-106.flac",
+    "audio-107.flac",
+    "audio-108.flac",
+    "audio-109.flac",
+    "audio-110.flac",
+    "audio-111.flac",
+    "audio-112.flac",
+    "audio-113.wav"
   ],
   "notes": [
     {
@@ -422,6 +439,71 @@
     {
       "audio_s": 131386.7080625,
       "utc": "2026-11-15T18:14:58.838Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 132107.493875,
+      "utc": "2026-11-15T18:26:59.593Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 132345.35083333333,
+      "utc": "2026-11-15T18:30:57.513Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 132587.90227083332,
+      "utc": "2026-11-15T18:35:00.154Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 132645.70210416667,
+      "utc": "2026-11-15T18:35:57.965Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 132825.77429166666,
+      "utc": "2026-11-15T18:38:57.991Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 132828.385125,
+      "utc": "2026-11-15T18:39:00.630Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 133005.93183333334,
+      "utc": "2026-11-15T18:41:58.295Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 133487.0230625,
+      "utc": "2026-11-15T18:49:59.449Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 133487.03310416668,
+      "utc": "2026-11-15T18:49:59.452Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 133607.1916875,
+      "utc": "2026-11-15T18:51:59.629Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 133609.7221875,
+      "utc": "2026-11-15T18:52:02.165Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 133787.43960416666,
+      "utc": "2026-11-15T18:54:59.899Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 134169.9568125,
+      "utc": "2026-11-15T19:01:22.380Z",
       "text": "paused"
     }
   ],
@@ -925,38 +1007,138 @@
     {
       "audio_s": 131386.7080625,
       "frame": 6306561987,
-      "segment": "audio-096.wav",
+      "segment": "audio-096.flac",
       "utc": "2026-11-15T18:14:58.796Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 132107.493875,
+      "frame": 6341159706,
+      "segment": "audio-097.flac",
+      "utc": "2026-11-15T18:26:59.583Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 132345.35083333333,
+      "frame": 6352576840,
+      "segment": "audio-098.flac",
+      "utc": "2026-11-15T18:30:57.450Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 132587.90227083332,
+      "frame": 6364219309,
+      "segment": "audio-099.flac",
+      "utc": "2026-11-15T18:35:00.016Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 132645.70210416667,
+      "frame": 6366993701,
+      "segment": "audio-100.flac",
+      "utc": "2026-11-15T18:35:57.849Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 132825.77429166666,
+      "frame": 6375637166,
+      "segment": "audio-101.flac",
+      "utc": "2026-11-15T18:38:57.973Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 132828.385125,
+      "frame": 6375762486,
+      "segment": "audio-102.flac",
+      "utc": "2026-11-15T18:39:00.635Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 133005.93183333334,
+      "frame": 6384284728,
+      "segment": "audio-103.flac",
+      "utc": "2026-11-15T18:41:58.210Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 133487.0230625,
+      "frame": 6407377107,
+      "segment": "audio-104.flac",
+      "utc": "2026-11-15T18:49:59.312Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 133487.03310416668,
+      "frame": 6407377589,
+      "segment": "audio-105.flac",
+      "utc": "2026-11-15T18:49:59.335Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 133607.1916875,
+      "frame": 6413145201,
+      "segment": "audio-106.flac",
+      "utc": "2026-11-15T18:51:59.526Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 133609.7221875,
+      "frame": 6413266665,
+      "segment": "audio-107.flac",
+      "utc": "2026-11-15T18:52:02.072Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 133787.43960416666,
+      "frame": 6421797101,
+      "segment": "audio-108.flac",
+      "utc": "2026-11-15T18:54:59.818Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 134169.9568125,
+      "frame": 6440157927,
+      "segment": "audio-109.flac",
+      "utc": "2026-11-15T19:01:22.341Z",
       "gap_s": 0.0,
       "device": "USB PnP Sound Device, USB Audio"
     }
   ],
   "result": {
-    "amplitude_deg": null,
-    "amplitude_error_deg": null,
-    "amplitude_even_deg": null,
-    "amplitude_odd_deg": 216.34972764950408,
-    "beat_error_ms": -7.011403505581132,
-    "beat_error_source": "drop",
-    "beat_error_unlock_error_ms": null,
-    "beat_error_unlock_ms": null,
-    "beats_used": 477,
+    "amplitude_deg": 210.39961650968144,
+    "amplitude_error_deg": 1.0124099741385684,
+    "amplitude_even_deg": 206.68433117628368,
+    "amplitude_odd_deg": 213.95381999558512,
+    "beat_error_ms": -0.1892965982279781,
+    "beat_error_source": "unlock",
+    "beat_error_unlock_error_ms": 0.009317016515600627,
+    "beat_error_unlock_ms": -0.6092247057276,
+    "beats_used": 480,
     "bph": 28800,
     "bph_set": 28800,
-    "caveats": [
-      {
-        "code": "beat_error_from_drop"
-      }
-    ],
+    "caveats": [],
     "clipped_beats": 0,
     "clipped_fraction": 0.0,
-    "jitter_us": 89.55982960324036,
-    "rate_error_s_per_day": 0.8231267243432212,
-    "rate_s_per_day": -9.359530153672324,
-    "snr": 169.302001953125,
-    "span_s": 59.91190960773383,
-    "time_s": 131748.46516666666,
-    "timing_scatter_fraction": 0.0007164786368259228,
+    "jitter_us": 125.11977163085247,
+    "rate_error_s_per_day": 0.9189375228576354,
+    "rate_s_per_day": -12.768290254793513,
+    "snr": 203.5697479248047,
+    "span_s": 59.88401677025831,
+    "time_s": 150523.57016666667,
+    "timing_scatter_fraction": 0.0010009581730468199,
     "watch_heard": true,
     "whole": true
   }
