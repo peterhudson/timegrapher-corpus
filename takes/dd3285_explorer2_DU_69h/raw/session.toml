@@ -1,0 +1,13 @@
+watch = "Clean Explorer 2"
+calibre = "Dandong 3235"
+bph = 28800
+lift = 59.0
+lift_known = true
+
+[wheels]
+
+[[recording]]
+file = "."
+position = "DU"
+clock = "clock.csv"
+settle_s = 0.0
