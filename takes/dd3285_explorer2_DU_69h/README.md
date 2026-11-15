@@ -1,6 +1,6 @@
 # Explorer II replica, Dandong 3285 movement: dial up, 69 h 0 min
 
-Example take: it is public and can be fetched by name (`scripts/fetch.py DEST dd3285_explorer2_DU_69h`), but `regress` and CI never read it. No readings are given here. The take is held out for timegrapher#1817 until a method and its acceptance are posted there.
+Example take: it is public and can be fetched by name (`scripts/fetch.py DEST dd3285_explorer2_DU_69h`), but `regress` and CI never read it. No checked readings are given here. The app's own last live reading, as the app showed it when the file was saved, is the `result` block at the end of `raw/app_session.json`; it is not a checked reading. The take is held out for timegrapher#1817 until a method and its acceptance are posted there.
 
 - Recorded by the owner with the desktop app (timegrapher-app 1.0.1) as one take on the new black stand, from 2026-11-10 06:11:10Z to 11-13 03:11:22Z. It holds 69:00:15 of sound (248,414.9 s) in 84 files, at 48 kHz, 16-bit mono.
 - It is the same watch as `dd3285_explorer2_DU_43min_newstand`. Fully wound, dial up. Lift 59° as set in the app, 28,800 bph.

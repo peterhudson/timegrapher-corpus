@@ -1,6 +1,6 @@
 # Day-Date 36 replica, Dandong 3255 movement: dial up, run-down (partial, still recording)
 
-Example take: it is public and can be fetched by name (`scripts/fetch.py DEST dd3255_daydate36_DU_rundown`), but `regress` and CI never read it. No readings are given here. The take is held out for timegrapher#1817 until a method and its acceptance are posted there. It is also the take behind timegrapher#1819 (beat error flipping in Live).
+Example take: it is public and can be fetched by name (`scripts/fetch.py DEST dd3255_daydate36_DU_rundown`), but `regress` and CI never read it. No checked readings are given here. The app's own last live reading, as the app showed it when the file was saved, is the `result` block at the end of `raw/app_session.json`; it is not a checked reading. The take is held out for timegrapher#1817 until a method and its acceptance are posted there. It is also the take behind timegrapher#1819 (beat error flipping in Live).
 
 - Recorded with the desktop app (timegrapher-app 1.0.0) as one take, dial up, starting 2026-11-14 05:45:12Z, letting the watch run down. Lift 59° as set in the app, 28,800 bph. 48 kHz, 16-bit mono.
 - **Partial:** this release holds the first 92 files (`take_part01-001` to `-092`), 130,964 s (36.4 h) of sound, up to 2026-11-15 18:07:55Z. The take was still recording when they were uploaded. Later files will be added to the same release, and this README updated, once the take is stopped.
