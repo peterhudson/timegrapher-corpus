@@ -25,6 +25,9 @@ against an independent reading.
   is the take's id, except for the four takes renamed on 2026-11-01
   (`scripts/renames-2026-11.json`), which keep their first tags. `corpus.json` lists every file with its size
   and SHA-256.
+- `research/` holds the photographs and data behind timegrapher's research
+  pages (train-wheel counts and optical amplitude checks); see
+  `research/README.md`.
 - `scripts/fetch.py DEST` downloads and checks the audio, needing nothing
   but Python; it leaves out example and holdout takes unless asked (below).
   `scripts/upload.sh` and `scripts/rename_assets.py` are for maintainers.
