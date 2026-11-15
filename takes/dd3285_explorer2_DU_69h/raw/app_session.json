@@ -1,0 +1,387 @@
+{
+  "watch": "Explorer 2",
+  "position": "DU",
+  "lift_deg": 59.0,
+  "bph": 28800,
+  "device": "USB PnP Sound Device, USB Audio",
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "timegrapher-app 1.0.1",
+  "started_utc": "2026-11-10T06:11:10.136Z",
+  "ended_utc": "2026-11-13T03:11:22.485Z",
+  "duration_s": 248414.89720833334,
+  "segments": [
+    "audio-001.flac",
+    "audio-002.flac",
+    "audio-003.flac",
+    "audio-004.flac",
+    "audio-005.flac",
+    "audio-006.flac",
+    "audio-007.flac",
+    "audio-008.flac",
+    "audio-009.flac",
+    "audio-010.flac",
+    "audio-011.flac",
+    "audio-012.flac",
+    "audio-013.flac",
+    "audio-014.flac",
+    "audio-015.flac",
+    "audio-016.flac",
+    "audio-017.flac",
+    "audio-018.flac",
+    "audio-019.flac",
+    "audio-020.flac",
+    "audio-021.flac",
+    "audio-022.flac",
+    "audio-023.flac",
+    "audio-024.flac",
+    "audio-025.flac",
+    "audio-026.flac",
+    "audio-027.flac",
+    "audio-028.flac",
+    "audio-029.flac",
+    "audio-030.flac",
+    "audio-031.flac",
+    "audio-032.flac",
+    "audio-033.flac",
+    "audio-034.flac",
+    "audio-035.flac",
+    "audio-036.flac",
+    "audio-037.flac",
+    "audio-038.flac",
+    "audio-039.flac",
+    "audio-040.flac",
+    "audio-041.flac",
+    "audio-042.flac",
+    "audio-043.flac",
+    "audio-044.flac",
+    "audio-045.flac",
+    "audio-046.flac",
+    "audio-047.flac",
+    "audio-048.flac",
+    "audio-049.flac",
+    "audio-050.flac",
+    "audio-051.flac",
+    "audio-052.flac",
+    "audio-053.flac",
+    "audio-054.flac",
+    "audio-055.flac",
+    "audio-056.flac",
+    "audio-057.flac",
+    "audio-058.flac",
+    "audio-059.flac",
+    "audio-060.flac",
+    "audio-061.flac",
+    "audio-062.flac",
+    "audio-063.flac",
+    "audio-064.flac",
+    "audio-065.flac",
+    "audio-066.flac",
+    "audio-067.flac",
+    "audio-068.flac",
+    "audio-069.flac",
+    "audio-070.flac",
+    "audio-071.flac",
+    "audio-072.flac",
+    "audio-073.flac",
+    "audio-074.flac",
+    "audio-075.flac",
+    "audio-076.flac",
+    "audio-077.flac",
+    "audio-078.flac",
+    "audio-079.flac",
+    "audio-080.flac",
+    "audio-081.flac",
+    "audio-082.flac",
+    "audio-083.flac",
+    "audio-084.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 48167.2390625,
+      "utc": "2026-11-10T19:33:56.911Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 48188.221125,
+      "utc": "2026-11-10T19:34:17.945Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 50920.38791666667,
+      "utc": "2026-11-10T20:19:50.058Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 50920.43310416667,
+      "utc": "2026-11-10T20:19:50.105Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 50978.39360416667,
+      "utc": "2026-11-10T20:20:48.132Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 51060.278375,
+      "utc": "2026-11-10T20:22:09.936Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 51060.328583333336,
+      "utc": "2026-11-10T20:22:10.046Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 51071.58529166667,
+      "utc": "2026-11-10T20:22:21.344Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 51232.5481875,
+      "utc": "2026-11-10T20:25:02.322Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 51303.2365,
+      "utc": "2026-11-10T20:26:12.956Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 51318.8864375,
+      "utc": "2026-11-10T20:26:28.699Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 51318.91154166667,
+      "utc": "2026-11-10T20:26:28.701Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 51945.2755625,
+      "utc": "2026-11-10T20:36:55.112Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 53379.034770833336,
+      "utc": "2026-11-10T21:00:48.790Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 56271.89835416667,
+      "utc": "2026-11-10T21:49:01.700Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 209162.02220833334,
+      "utc": "2026-11-12T16:17:10.111Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 220652.38004166668,
+      "utc": "2026-11-12T19:28:40.255Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 224894.80345833334,
+      "utc": "2026-11-12T20:39:22.687Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 234267.87085416666,
+      "utc": "2026-11-12T23:15:35.633Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 248414.89720833334,
+      "utc": "2026-11-13T03:11:22.484Z",
+      "text": "paused"
+    }
+  ],
+  "breaks": [
+    {
+      "audio_s": 48167.2390625,
+      "frame": 2312027475,
+      "segment": "audio-015.flac",
+      "utc": "2026-11-10T19:33:56.861Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 48188.221125,
+      "frame": 2313034614,
+      "segment": "audio-016.flac",
+      "utc": "2026-11-10T19:34:17.854Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 50920.38791666667,
+      "frame": 2444178620,
+      "segment": "audio-017.flac",
+      "utc": "2026-11-10T20:19:50.001Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 50920.43310416667,
+      "frame": 2444180789,
+      "segment": "audio-018.flac",
+      "utc": "2026-11-10T20:19:50.064Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 50978.39360416667,
+      "frame": 2446962893,
+      "segment": "audio-019.flac",
+      "utc": "2026-11-10T20:20:48.034Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 51060.278375,
+      "frame": 2450893362,
+      "segment": "audio-020.flac",
+      "utc": "2026-11-10T20:22:09.934Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 51060.328583333336,
+      "frame": 2450895772,
+      "segment": "audio-021.flac",
+      "utc": "2026-11-10T20:22:09.993Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 51071.58529166667,
+      "frame": 2451436094,
+      "segment": "audio-022.flac",
+      "utc": "2026-11-10T20:22:21.278Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 51232.5481875,
+      "frame": 2459162313,
+      "segment": "audio-023.flac",
+      "utc": "2026-11-10T20:25:02.252Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 51303.2365,
+      "frame": 2462555352,
+      "segment": "audio-024.flac",
+      "utc": "2026-11-10T20:26:12.953Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 51318.8864375,
+      "frame": 2463306549,
+      "segment": "audio-025.flac",
+      "utc": "2026-11-10T20:26:28.622Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 51318.91154166667,
+      "frame": 2463307754,
+      "segment": "audio-026.flac",
+      "utc": "2026-11-10T20:26:28.655Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 51945.2755625,
+      "frame": 2493373227,
+      "segment": "audio-027.flac",
+      "utc": "2026-11-10T20:36:55.024Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 53379.034770833336,
+      "frame": 2562193669,
+      "segment": "audio-028.flac",
+      "utc": "2026-11-10T21:00:48.789Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 56271.89835416667,
+      "frame": 2701051121,
+      "segment": "audio-029.flac",
+      "utc": "2026-11-10T21:49:01.662Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 209162.02220833334,
+      "frame": 10039777066,
+      "segment": "audio-072.flac",
+      "utc": "2026-11-12T16:17:10.019Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 220652.38004166668,
+      "frame": 10591314242,
+      "segment": "audio-076.flac",
+      "utc": "2026-11-12T19:28:40.252Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 224894.80345833334,
+      "frame": 10794950566,
+      "segment": "audio-078.flac",
+      "utc": "2026-11-12T20:39:22.639Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 234267.87085416666,
+      "frame": 11244857801,
+      "segment": "audio-081.flac",
+      "utc": "2026-11-12T23:15:35.614Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    }
+  ],
+  "result": {
+    "amplitude_deg": null,
+    "amplitude_error_deg": null,
+    "amplitude_even_deg": null,
+    "amplitude_odd_deg": null,
+    "beat_error_ms": 3.5363604093138283,
+    "beat_error_source": "drop",
+    "beat_error_unlock_error_ms": null,
+    "beat_error_unlock_ms": null,
+    "beats_used": 478,
+    "bph": 28800,
+    "bph_set": 28800,
+    "caveats": [
+      {
+        "code": "clock_unknown"
+      },
+      {
+        "code": "beat_error_from_drop"
+      }
+    ],
+    "clipped_beats": 0,
+    "clipped_fraction": 0.0,
+    "jitter_us": 851.7344363048323,
+    "rate_error_s_per_day": 17.47644723565799,
+    "rate_s_per_day": -265.1123380384171,
+    "snr": 1.947847843170166,
+    "span_s": 59.92507391626714,
+    "time_s": 241333.444625,
+    "timing_scatter_fraction": 0.006813875490438659,
+    "watch_heard": true,
+    "whole": true
+  }
+}
