@@ -1,0 +1,144 @@
+{
+  "watch": "41mm Datejust Wimbledon",
+  "position": "7H30",
+  "lift_deg": 59.0,
+  "bph": 28800,
+  "device": "USB PnP Sound Device, USB Audio",
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "timegrapher-app 1.0.0",
+  "started_utc": "2026-11-18T17:01:42.329Z",
+  "ended_utc": "2026-11-18T18:46:46.311Z",
+  "duration_s": 6303.977583333333,
+  "segments": [
+    "audio-001.flac",
+    "audio-002.flac",
+    "audio-003.flac",
+    "audio-004.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 692.4984375,
+      "utc": "2026-11-18T17:13:14.829Z",
+      "text": "position DD"
+    },
+    {
+      "audio_s": 1372.7761666666668,
+      "utc": "2026-11-18T17:24:35.101Z",
+      "text": "position CU"
+    },
+    {
+      "audio_s": 1469.1811875,
+      "utc": "2026-11-18T17:26:11.601Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 1469.3318125,
+      "utc": "2026-11-18T17:26:11.811Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 2073.825083333333,
+      "utc": "2026-11-18T17:36:16.179Z",
+      "text": "position CD"
+    },
+    {
+      "audio_s": 3069.55675,
+      "utc": "2026-11-18T17:52:51.903Z",
+      "text": "position CL"
+    },
+    {
+      "audio_s": 3709.2812083333333,
+      "utc": "2026-11-18T18:03:31.621Z",
+      "text": "position CR"
+    },
+    {
+      "audio_s": 4425.1767291666665,
+      "utc": "2026-11-18T18:15:27.505Z",
+      "text": "position 1H30"
+    },
+    {
+      "audio_s": 4717.580020833333,
+      "utc": "2026-11-18T18:20:19.909Z",
+      "text": "position 10H30"
+    },
+    {
+      "audio_s": 4733.30025,
+      "utc": "2026-11-18T18:20:35.626Z",
+      "text": "position 4H30"
+    },
+    {
+      "audio_s": 5060.944770833334,
+      "utc": "2026-11-18T18:26:03.270Z",
+      "text": "position 7H30"
+    },
+    {
+      "audio_s": 5216.7010625,
+      "utc": "2026-11-18T18:28:39.025Z",
+      "text": "position 10H30"
+    },
+    {
+      "audio_s": 5597.968083333333,
+      "utc": "2026-11-18T18:35:00.287Z",
+      "text": "position CR"
+    },
+    {
+      "audio_s": 5912.613666666667,
+      "utc": "2026-11-18T18:40:14.927Z",
+      "text": "position CL"
+    },
+    {
+      "audio_s": 6084.220729166666,
+      "utc": "2026-11-18T18:43:06.531Z",
+      "text": "position 7H30"
+    },
+    {
+      "audio_s": 6303.977583333333,
+      "utc": "2026-11-18T18:46:46.286Z",
+      "text": "paused"
+    }
+  ],
+  "breaks": [
+    {
+      "audio_s": 1469.1811875,
+      "frame": 70520697,
+      "segment": "audio-002.flac",
+      "utc": "2026-11-18T17:26:11.512Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    },
+    {
+      "audio_s": 1469.3318125,
+      "frame": 70527927,
+      "segment": "audio-003.flac",
+      "utc": "2026-11-18T17:26:11.687Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    }
+  ],
+  "result": {
+    "amplitude_deg": 175.11641376023718,
+    "amplitude_error_deg": 5.509404638063044,
+    "amplitude_even_deg": 141.12443616768326,
+    "amplitude_odd_deg": 209.56973317107435,
+    "beat_error_ms": 0.13898024824358143,
+    "beat_error_source": "unlock",
+    "beat_error_unlock_error_ms": 0.3218694581882449,
+    "beat_error_unlock_ms": -5.4144000898848725,
+    "beats_used": 79,
+    "bph": 28800,
+    "bph_set": 28800,
+    "caveats": [],
+    "clipped_beats": 0,
+    "clipped_fraction": 0.0,
+    "jitter_us": 108.27987874849896,
+    "rate_error_s_per_day": 14.937028047279748,
+    "rate_s_per_day": -29.76833616985823,
+    "snr": 172.2623748779297,
+    "span_s": 9.878425074434745,
+    "time_s": 6303.42749548791,
+    "timing_scatter_fraction": 0.0008662390299879917,
+    "watch_heard": true,
+    "whole": true
+  }
+}

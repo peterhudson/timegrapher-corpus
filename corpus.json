@@ -3354,6 +3354,33 @@
      "sha256": "9d232bc3ee39e195cb9146ed1bef2f97ad787b0d7f26add574e7079d9e5f64e5"
     }
    ]
+  },
+  {
+   "id": "datejust41_3235_multipos_105min",
+   "tier": "example",
+   "release": "datejust41_3235_multipos_105min",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 66001958,
+     "sha256": "58278d4b4f6dd1903ed7ca9a8e39ae2f62e3c3d3ddb70ac24f1e3012bc4657c9"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 6819,
+     "sha256": "c4d11687c6c770b1fa4f7c398f9c10fa0ba6f25ba1d6def4362af057ecfeb0bd"
+    },
+    {
+     "name": "take_part01-003.flac",
+     "bytes": 163477746,
+     "sha256": "6252526503885d50e5ce374cd8b5ab08c93c207043b43cc76f2646702bc2395f"
+    },
+    {
+     "name": "take_part01-004.flac",
+     "bytes": 55061522,
+     "sha256": "e9ed4222cdc30e6ab5990a8dd8b3e0acf2d3ae02744c521d2ccbf5476df362b3"
+    }
+   ]
   }
  ]
 }
