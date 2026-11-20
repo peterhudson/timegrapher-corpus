@@ -2,7 +2,7 @@
 
 Example take: it is public and can be fetched by name (`scripts/fetch.py DEST datejust41_3235_multipos_105min`), but `regress` and CI never read it. No checked readings are given here. The app's own last live reading, as the app showed it when the take stopped (in 7H30), is the `result` block at the end of `raw/app_session.json`; it is not a checked reading.
 
-- Recorded by Peter with the desktop app (timegrapher-app 1.0.0) as one take, moving the watch through the positions, from 2026-11-18 17:01:42Z to 18:46:46Z. Lift 59° as set in the app, 28,800 bph. 48 kHz, 16-bit mono.
+- Recorded with the desktop app (timegrapher-app 1.0.0) as one take, moving the watch through the positions, from 2026-11-18 17:01:42Z to 18:46:46Z. Lift 59° as set in the app, 28,800 bph. 48 kHz, 16-bit mono.
 - **Watch:** a 41 mm Datejust "Wimbledon" replica with a Dandong 3235 movement.
 - **Complete:** 4 files (`take_part01-001` to `-004`), 6,303.98 s of sound (the app's own duration, and the sum of the files' lengths), 284,548,045 bytes.
 - The audio is the app's own `audio-NNN.flac` files, copied byte for byte. `raw/file_map.txt` gives the original names. All four decode without error.

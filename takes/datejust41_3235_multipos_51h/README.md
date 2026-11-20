@@ -4,7 +4,7 @@ Example take: it is public and can be fetched by name (`scripts/fetch.py DEST da
 
 - Recorded with the desktop app (timegrapher-app 1.0.0) as one take, moving the watch through the positions, from 2026-11-18 18:51:41Z to 2026-11-20 21:46:17Z. Lift 59° as set in the app, 28,800 bph. 48 kHz, 16-bit mono.
 - **Watch:** the same 41 mm Datejust "Wimbledon" replica with a Dandong 3235 movement as `datejust41_3235_multipos_105min`, recorded the same day, starting about 5 minutes after that take ended.
-- **Shape:** short stretches in seven positions over the first 3.2 h, then four long ones: 4H30 for 17.5 h, DD for 7.2 h, DU for 6.2 h and 7H30 for 16.9 h.
+- **Shape:** short stretches in seven positions over the first 3.2 h, then four long ones: 4H30 for 17.5 h, DD for 7.2 h, DU for 6.3 h and 7H30 for 16.9 h (time in each position, from one position note to the next).
 - **Complete:** 57 files (`take_part01-001` to `-057`), 183,278.08 s of sound (the app's own duration, the sum of the files' lengths, and the last frame count in `clock.csv`: 8,797,347,838 frames), 8,263,720,138 bytes.
 - The audio is the app's own `audio-NNN.flac` files, copied byte for byte. `raw/file_map.txt` gives the original names. All 57 decode without error and carry no tags.
 - `raw/app_session.json` and `raw/session.toml` are the app's own session files, unchanged. `clock.csv` is the app's clock log (Unix time against audio frames).
