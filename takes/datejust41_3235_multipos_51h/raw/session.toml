@@ -1,0 +1,110 @@
+watch = "41mm Datejust Wimbledon"
+calibre = "Dandong 3235"
+bph = 28800
+lift = 59.0
+lift_known = true
+
+[wheels]
+
+[[recording]]
+file = "."
+position = "DU"
+clock = "clock.csv"
+start_s = 0.0
+end_s = 0.8686041666666666
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "CL"
+clock = "clock.csv"
+start_s = 30.868604166666668
+end_s = 493.4374583333333
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "4H30"
+clock = "clock.csv"
+start_s = 499.82897916666667
+end_s = 499.82897916666667
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "7H30"
+clock = "clock.csv"
+start_s = 529.8289791666666
+end_s = 713.9424166666666
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "CD"
+clock = "clock.csv"
+start_s = 743.9424166666666
+end_s = 6718.41725
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "10H30"
+clock = "clock.csv"
+start_s = 6748.41725
+end_s = 7527.569729166667
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "CR"
+clock = "clock.csv"
+start_s = 7557.569729166667
+end_s = 8235.939020833333
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "1H30"
+clock = "clock.csv"
+start_s = 8265.939020833333
+end_s = 9889.264291666666
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "CU"
+clock = "clock.csv"
+start_s = 9919.264291666666
+end_s = 11410.150020833333
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "4H30"
+clock = "clock.csv"
+start_s = 11440.150020833333
+end_s = 74290.2231875
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "DD"
+clock = "clock.csv"
+start_s = 74320.2231875
+end_s = 100068.39154166667
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "DU"
+clock = "clock.csv"
+start_s = 100098.39154166667
+end_s = 122590.61977083333
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "7H30"
+clock = "clock.csv"
+start_s = 122620.61977083333
+settle_s = 0.0
