@@ -3673,6 +3673,18 @@
      "sha256": "b331127790a81e17b07ad18ef1ca0e2cdb802fe5d7b01c356944556204755ebc"
     }
    ]
+  },
+  {
+   "id": "fakemic_silentstart_stand_ym42_DU",
+   "tier": "smoke",
+   "release": "fakemic_silentstart_stand_ym42_DU",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 13232102,
+     "sha256": "313d25b9687a0080a0a4811e26a2d75077f693dfae31ffa25dcb0e0501d18fc6"
+    }
+   ]
   }
  ]
 }
