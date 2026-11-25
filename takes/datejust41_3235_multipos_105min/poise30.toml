@@ -1,0 +1,71 @@
+# Test only: eight Dynamic Poise stops of 30 s each, cut from the
+# stretches in raw/app_session.toml.txt. Not a session the app wrote.
+watch = "41mm Datejust Wimbledon"
+calibre = "Dandong 3235"
+bph = 28800
+lift = 59.0
+lift_known = true
+
+[[recording]]
+file = "."
+position = "12H"
+clock = "clock.csv"
+start_s = 3739.2812083333333
+end_s = 3769.2812083333333
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "1H30"
+clock = "clock.csv"
+start_s = 4455.1767291666665
+end_s = 4485.1767291666665
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "3H"
+clock = "clock.csv"
+start_s = 1450.0
+end_s = 1480.0
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "4H30"
+clock = "clock.csv"
+start_s = 4763.30025
+end_s = 4793.30025
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "6H"
+clock = "clock.csv"
+start_s = 3099.55675
+end_s = 3129.55675
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "7H30"
+clock = "clock.csv"
+start_s = 5090.944770833334
+end_s = 5120.944770833334
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "9H"
+clock = "clock.csv"
+start_s = 2103.825083333333
+end_s = 2133.825083333333
+settle_s = 0.0
+
+[[recording]]
+file = "."
+position = "10H30"
+clock = "clock.csv"
+start_s = 5246.7010625
+end_s = 5276.7010625
+settle_s = 0.0
