@@ -1,6 +1,6 @@
 # Datejust 41 replica, Dandong 3235 movement: ten positions, 1 h 45 min
 
-Example take: it is public and can be fetched by name (`scripts/fetch.py DEST datejust41_3235_multipos_105min`), but `regress` and CI never read it. No checked readings are given here. The app's own last live reading, as the app showed it when the take stopped (in 7H30), is the `result` block at the end of `raw/app_session.json`; it is not a checked reading.
+Example take: it is public and can be fetched by name (`scripts/fetch.py DEST datejust41_3235_multipos_105min`). `regress` never reads it; one timegrapher test does (see Test files below). No checked readings are given here. The app's own last live reading, as the app showed it when the take stopped (in 7H30), is the `result` block at the end of `raw/app_session.json`; it is not a checked reading.
 
 - Recorded with the desktop app (timegrapher-app 1.0.0) as one take, moving the watch through the positions, from 2026-11-18 17:01:42Z to 18:46:46Z. Lift 59° as set in the app, 28,800 bph. 48 kHz, 16-bit mono.
 - **Watch:** a 41 mm Datejust "Wimbledon" replica with a Dandong 3235 movement.
@@ -33,3 +33,9 @@ Each position change is a note in `raw/app_session.json`. `raw/app_session.toml.
 The first 10H30 lasted 15.7 s (from 4,717.6 s to the 4H30 note at 4,733.3 s), shorter than the 30 s settle, so its stretch is empty. 10H30 was recorded again from 5,216.7 s. CR, CL and 7H30 were also recorded a second time at the end.
 
 The take's folder name, "Dial Up", is the app's name for the first position.
+
+## Test files
+
+`poise30.toml` and `poise60.toml` are not the app's. They are written for timegrapher's test `a_corpus_take_read_at_once_reads_as_each_entry_alone` (core `tests/take_context.rs`, #1958), which reads each entry of a guided test at once and alone and checks the two agree. Each lists eight Dynamic Poise stops of 30 s or 60 s, in clock order from 12H (12H, 1H30, 3H, 4H30, 6H, 7H30, 9H, 10H30), cut from the start of the stretches above: 12H is CR, 3H is CU, 6H is CL, 9H is CD, and the second 10H30 is used. The 3H (CU) stop is placed across the two breaks at 1,469.2 s, from 1,450 s (30 s) or 1,440 s (60 s). Neither is named `session.toml`, so `regress` does not read them.
+
+The same test reads the positions from `raw/session.toml`, which the corpus does not hold (`regress` would read it as a session of `raw/`). timegrapher's CI copies `raw/app_session.toml.txt` to that name, and fetches this take's audio, just before it runs the test.
