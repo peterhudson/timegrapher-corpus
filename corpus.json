@@ -3685,6 +3685,18 @@
      "sha256": "313d25b9687a0080a0a4811e26a2d75077f693dfae31ffa25dcb0e0501d18fc6"
     }
    ]
+  },
+  {
+   "id": "usbhub_dd3285_explorer2_DU_95s",
+   "tier": "smoke",
+   "release": "usbhub_dd3285_explorer2_DU_95s",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 4766638,
+     "sha256": "dc21fdc9b85261e5fc721cce7f6018a63b209bad90399a4599eea72475626c8d"
+    }
+   ]
   }
  ]
 }
