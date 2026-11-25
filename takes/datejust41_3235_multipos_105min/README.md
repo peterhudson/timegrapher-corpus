@@ -6,12 +6,12 @@ Example take: it is public and can be fetched by name (`scripts/fetch.py DEST da
 - **Watch:** a 41 mm Datejust "Wimbledon" replica with a Dandong 3235 movement.
 - **Complete:** 4 files (`take_part01-001` to `-004`), 6,303.98 s of sound (the app's own duration, and the sum of the files' lengths), 284,548,045 bytes.
 - The audio is the app's own `audio-NNN.flac` files, copied byte for byte. `raw/file_map.txt` gives the original names. All four decode without error.
-- `raw/app_session.json` and `raw/session.toml` are the app's own session files, unchanged. `clock.csv` is the app's clock log (Unix time against audio frames).
+- `raw/app_session.json` and `raw/app_session.toml.txt` are the app's own session files, unchanged. `clock.csv` is the app's clock log (Unix time against audio frames). `app_session.toml.txt` is the app's `session.toml` with only its name changed, so that `regress` does not read `raw/` as a session (as in `pepsi3285_DU_7h`).
 - **Breaks:** the app logged 2 breaks at 1,469.2 s and 1,469.3 s, each with a gap of 0 s and the note "paused". That is why file 002 is only 0.15 s long. All files are kept, so they join as the app recorded them.
 
 ## Positions
 
-Each position change is a note in `raw/app_session.json`. `raw/session.toml` lists the stretches the app reads for each position, starting 30 s after each change so the watch can settle. Times are seconds of sound from the start of the take.
+Each position change is a note in `raw/app_session.json`. `raw/app_session.toml.txt` lists the stretches the app reads for each position, starting 30 s after each change so the watch can settle. Times are seconds of sound from the start of the take.
 
 | Position | Read from (s) | To (s) | Read (s) |
 |---|---:|---:|---:|

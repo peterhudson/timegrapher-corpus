@@ -7,12 +7,12 @@ Example take: it is public and can be fetched by name (`scripts/fetch.py DEST da
 - **Shape:** short stretches in seven positions over the first 3.2 h, then four long ones: 4H30 for 17.5 h, DD for 7.2 h, DU for 6.3 h and 7H30 for 16.9 h (time in each position, from one position note to the next).
 - **Complete:** 57 files (`take_part01-001` to `-057`), 183,278.08 s of sound (the app's own duration, the sum of the files' lengths, and the last frame count in `clock.csv`: 8,797,347,838 frames), 8,263,720,138 bytes.
 - The audio is the app's own `audio-NNN.flac` files, copied byte for byte. `raw/file_map.txt` gives the original names. All 57 decode without error and carry no tags.
-- `raw/app_session.json` and `raw/session.toml` are the app's own session files, unchanged. `clock.csv` is the app's clock log (Unix time against audio frames).
+- `raw/app_session.json` and `raw/app_session.toml.txt` are the app's own session files, unchanged. `clock.csv` is the app's clock log (Unix time against audio frames). `app_session.toml.txt` is the app's `session.toml` with only its name changed, so that `regress` does not read `raw/` as a session (as in `pepsi3285_DU_7h`).
 - **Breaks:** the app logged 9 breaks, each with a gap of 0 s and the note "paused", at 686.6 s, 7,376.6 s, 77,050.83 s, 77,050.84 s, 100,652.7 s, 101,128.8 s, 124,226.3 s, 124,298.1 s and 172,525.3 s. A new file starts at each one, which is why some files are short (file 024 holds 241 frames, 5 ms). All files are kept, so they join as the app recorded them.
 
 ## Positions
 
-Each position change is a note in `raw/app_session.json`. `raw/session.toml` lists the stretches the app reads for each position, starting 30 s after each change so the watch can settle. Times are seconds of sound from the start of the take. The last stretch has no end in `session.toml`; it runs to the end of the take.
+Each position change is a note in `raw/app_session.json`. `raw/app_session.toml.txt` lists the stretches the app reads for each position, starting 30 s after each change so the watch can settle. Times are seconds of sound from the start of the take. The last stretch has no end in `app_session.toml.txt`; it runs to the end of the take.
 
 | Position | Read from (s) | To (s) | Read (s) |
 |---|---:|---:|---:|
