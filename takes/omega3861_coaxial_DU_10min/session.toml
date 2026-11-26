@@ -1,0 +1,12 @@
+watch = "Omega 3861 (co-axial, manual-wind chronograph)"
+calibre = "Omega 3861"
+escapement = "co-axial"
+bph = 21600
+lift = 36
+lift_known = false
+notes = "Contributed by an anonymous user. Dial up, about 10.6 min, recorded with the desktop app 1.1.0 on a commercial timegrapher's pickup. Co-axial escapement. No checked lift angle exists for the 3861; 36 deg is an assumption (the app recorded at its 52 deg default, which puts the Swiss-lever amplitude formula above 400 deg). Smoke take: no reference figures."
+
+[[recording]]
+file = "take_part01-001.flac"
+position = "DU"
+clock = "clock.csv"
