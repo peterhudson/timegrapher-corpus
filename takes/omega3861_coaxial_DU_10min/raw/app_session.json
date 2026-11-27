@@ -1,0 +1,60 @@
+{
+  "watch": "",
+  "position": "DU",
+  "lift_deg": 52.0,
+  "bph": null,
+  "sample_rate": 48000,
+  "bits": 24,
+  "software": "timegrapher-app 1.1.0",
+  "started_utc": "2026-11-25T10:29:46.812Z",
+  "ended_utc": "2026-11-25T10:40:25.501Z",
+  "duration_s": 638.6773333333333,
+  "segments": [
+    "audio-001.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 638.6773333333333,
+      "utc": "2026-11-25T10:40:25.488Z",
+      "text": "paused"
+    }
+  ],
+  "result": {
+    "amplitude_deg": null,
+    "amplitude_error_deg": null,
+    "amplitude_even_deg": null,
+    "amplitude_odd_deg": null,
+    "beat_error_ms": 0.5463415982239617,
+    "beat_error_source": "drop",
+    "beat_error_unlock_error_ms": null,
+    "beat_error_unlock_ms": null,
+    "beats_used": 56,
+    "bph": 21600,
+    "bph_set": null,
+    "caveats": [
+      {
+        "code": "short_span",
+        "span_s": 9.999725387054847
+      },
+      {
+        "code": "lift_unknown"
+      },
+      {
+        "code": "beat_error_from_drop"
+      }
+    ],
+    "clipped_beats": 0,
+    "clipped_fraction": 0.0,
+    "finding_beat": false,
+    "jitter_us": 68.9484857241439,
+    "listening": null,
+    "rate_error_s_per_day": 1.197176960799054,
+    "rate_s_per_day": -1.9671333120786585,
+    "snr": 93.53175354003906,
+    "span_s": 9.83305872038818,
+    "time_s": 638.2406498662215,
+    "timing_scatter_fraction": 0.00041369091434486336,
+    "watch_heard": true,
+    "whole": true
+  }
+}
