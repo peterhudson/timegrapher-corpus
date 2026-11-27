@@ -57,16 +57,19 @@ a co-axial.
 ## What timegrapher reads
 
 `timegrapher analyze take_part01-001.flac --calibre "Omega 3861" --lift 36`
-at main f153a26 (2026-11-27), whole take, clock from the 8 USB lines in
-the recording:
+at main f153a26 (2026-11-27), clock from the 8 USB lines in the recording.
+The whole-take row is the summary (`--json`: `rate_s_per_day`,
+`beat_error_unlock_ms`, `amplitude_deg`, `amplitude_even_deg`,
+`amplitude_odd_deg`). The last-minute row is the final row (t = 635.5 s)
+of `--trend last.csv --trend-average 60` on the same command:
 
 | Reading | Rate | Beat error (unlock) | Amplitude (co-axial estimate, beta) |
 |---|---|---|---|
 | Whole take | −2.2 s/d | 0.10 ms | 307° (sides 289° and 325°) |
-| Last minute (575 s to end) | −2.0 s/d | 0.10 ms | 304° (sides 291° and 323°) |
+| Last minute (60 s trend, final row) | −2.3 s/d | 0.08 ms | 306° (sides 289° and 323°) |
 
-Against the Witschi: beat error agrees within 0.03 ms. Rate is 2.9 s/d
-slower, inside the spread of this watch's 10 s rates (5th to 95th
+Against the Witschi: beat error agrees within 0.03 ms. Rate is 2.9 to
+3.0 s/d slower, inside the spread of this watch's 10 s rates (5th to 95th
 percentile −4.6 to +10.2 s/d, with a swing that repeats every 59 s), which
-a 2 s reading cannot average out. Amplitude is 12° to 15° (about 5%)
+a 2 s reading cannot average out. Amplitude is about 14° (5%)
 higher; the Witschi's figure sits near timegrapher's lower side.
