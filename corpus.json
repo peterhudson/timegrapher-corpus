@@ -3709,6 +3709,18 @@
      "sha256": "9f3deb11e46068d905445387704b283265bb6beaf6b3a0cc3ad18e84354f99c0"
     }
    ]
+  },
+  {
+   "id": "omega3861_coaxial_DU_10min_witschi",
+   "tier": "smoke",
+   "release": "omega3861_coaxial_DU_10min_witschi",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 30988143,
+     "sha256": "d0df19a070b560c753afb2bdbc4b5916c3948c17c179ab7664638dbed42778ea"
+    }
+   ]
   }
  ]
 }

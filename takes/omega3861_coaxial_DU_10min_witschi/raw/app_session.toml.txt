@@ -1,0 +1,11 @@
+bph = 21600
+lift = 36.0
+lift_known = true
+
+[wheels]
+
+[[recording]]
+file = "."
+position = "DU"
+clock = "clock.csv"
+settle_s = 0.0
