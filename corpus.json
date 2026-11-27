@@ -3721,6 +3721,33 @@
      "sha256": "d0df19a070b560c753afb2bdbc4b5916c3948c17c179ab7664638dbed42778ea"
     }
    ]
+  },
+  {
+   "id": "omega8500_coaxial_DU_3h",
+   "tier": "smoke",
+   "release": "omega8500_coaxial_DU_3h",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 94541255,
+     "sha256": "5eeb64a0ea88be01eb9bd33439c8ff13f2fb370f3df493370eb8efa88ae00162"
+    },
+    {
+     "name": "take_part01-002.flac",
+     "bytes": 167783437,
+     "sha256": "cb9ec2435af188feec9f656b1d039e1e333e6210712c9e50f4e530c00ee225ee"
+    },
+    {
+     "name": "take_part01-003.flac",
+     "bytes": 166981955,
+     "sha256": "2d76ff249aabc50a6327411be146224245ec044fe10d527e3d79bdc11837255d"
+    },
+    {
+     "name": "take_part01-004.flac",
+     "bytes": 56857464,
+     "sha256": "584f24ef457100f8d044998148f0307bf8af973a1954133849f26946e2ac9276"
+    }
+   ]
   }
  ]
 }

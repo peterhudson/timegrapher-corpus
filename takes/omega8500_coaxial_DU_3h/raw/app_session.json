@@ -1,0 +1,79 @@
+{
+  "watch": "Omega Seamaster",
+  "position": "DU",
+  "lift_deg": 38.0,
+  "bph": 25200,
+  "device": "USB PnP Sound Device, USB Audio",
+  "sample_rate": 48000,
+  "bits": 16,
+  "software": "timegrapher-app 1.1.0",
+  "calibre": "Omega 8500",
+  "started_utc": "2026-11-27T20:21:48.641Z",
+  "ended_utc": "2026-11-27T23:16:05.094Z",
+  "duration_s": 10456.548166666667,
+  "segments": [
+    "audio-001.flac",
+    "audio-002.flac",
+    "audio-003.flac",
+    "audio-004.flac"
+  ],
+  "notes": [
+    {
+      "audio_s": 2038.468375,
+      "utc": "2026-11-27T20:55:47.234Z",
+      "text": "paused"
+    },
+    {
+      "audio_s": 10456.548166666667,
+      "utc": "2026-11-27T23:16:05.087Z",
+      "text": "paused"
+    }
+  ],
+  "breaks": [
+    {
+      "audio_s": 2038.468375,
+      "frame": 97846482,
+      "segment": "audio-002.flac",
+      "utc": "2026-11-27T20:55:47.092Z",
+      "gap_s": 0.0,
+      "device": "USB PnP Sound Device, USB Audio"
+    }
+  ],
+  "result": {
+    "amplitude_deg": 281.59700777239664,
+    "amplitude_error_deg": 4.2551854400827125,
+    "amplitude_even_deg": 269.88121293628865,
+    "amplitude_odd_deg": 292.835194108331,
+    "beat_error_ms": null,
+    "beat_error_source": "unlock",
+    "beat_error_unlock_error_ms": 0.018074158713772662,
+    "beat_error_unlock_ms": 0.10841181288050228,
+    "beats_used": 68,
+    "bph": 25200,
+    "bph_set": 25200,
+    "caveats": [
+      {
+        "code": "coaxial_estimate"
+      },
+      {
+        "code": "lock_template_kept"
+      },
+      {
+        "code": "coaxial_beat_error"
+      }
+    ],
+    "clipped_beats": 0,
+    "clipped_fraction": 0.0,
+    "finding_beat": false,
+    "jitter_us": 62.14979112619403,
+    "listening": null,
+    "rate_error_s_per_day": 0.49843521978271504,
+    "rate_s_per_day": -2.566417647176422,
+    "snr": 294.5071716308594,
+    "span_s": 9.858030235451224,
+    "time_s": 10456.207213448512,
+    "timing_scatter_fraction": 0.0004350485378833582,
+    "watch_heard": true,
+    "whole": true
+  }
+}
