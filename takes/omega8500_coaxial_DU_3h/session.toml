@@ -1,0 +1,13 @@
+watch = "Omega Seamaster (co-axial, automatic)"
+calibre = "Omega 8500"
+escapement = "co-axial"
+bph = 25200
+lift = 38
+lift_known = true
+notes = "Dial up, 2 h 54 min in four files, recorded with the desktop app 1.1.0 (48 kHz S16 mono), from full wind. Co-axial escapement; lift 38 deg from the timegrapher calibre table (beta). Smoke take: no reference figures. The app logged a pause at 2038.47 s and a break there with no gap."
+
+[[recording]]
+file = "."
+position = "DU"
+wind_h = 0.0
+clock = "clock.csv"

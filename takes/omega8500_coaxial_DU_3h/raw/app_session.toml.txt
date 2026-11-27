@@ -1,0 +1,15 @@
+watch = "Omega Seamaster"
+calibre = "Omega 8500"
+bph = 25200
+lift = 38.0
+lift_known = true
+
+[wheels]
+balance = 0.2857142857142857
+
+[[recording]]
+file = "."
+position = "DU"
+wind_h = 0.0
+clock = "clock.csv"
+settle_s = 0.0
