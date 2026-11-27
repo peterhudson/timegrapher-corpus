@@ -68,5 +68,5 @@ the recording:
 Against the Witschi: beat error agrees within 0.03 ms. Rate is 2.9 s/d
 slower, inside the spread of this watch's 10 s rates (5th to 95th
 percentile −4.6 to +10.2 s/d, with a swing that repeats every 59 s), which
-a 2 s reading cannot average out. Amplitude is 12° to 14° (about 5%)
+a 2 s reading cannot average out. Amplitude is 12° to 15° (about 5%)
 higher; the Witschi's figure sits near timegrapher's lower side.
