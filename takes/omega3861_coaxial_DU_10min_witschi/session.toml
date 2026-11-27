@@ -1,0 +1,12 @@
+watch = "Omega 3861 (co-axial, manual-wind chronograph)"
+calibre = "Omega 3861"
+escapement = "co-axial"
+bph = 21600
+lift = 36
+lift_known = false
+notes = "Contributed by an anonymous user. Dial up, 10.6 min, recorded with the desktop app 1.1.0 at 36 deg lift. Co-axial escapement. A Witschi Chronoscope in Co-Axial mode read the watch about 2 min after the take ended (see README); it is not a simultaneous reading. 36 deg lift is the contributor's setting on both instruments; no checked source gives the 3861's lift. Smoke take: no tg reference."
+
+[[recording]]
+file = "take_part01-001.flac"
+position = "DU"
+clock = "clock.csv"
