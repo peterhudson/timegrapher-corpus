@@ -3748,6 +3748,18 @@
      "sha256": "584f24ef457100f8d044998148f0307bf8af973a1954133849f26946e2ac9276"
     }
    ]
+  },
+  {
+   "id": "shopvoices_28800_DU_14s",
+   "tier": "smoke",
+   "release": "shopvoices_28800_DU_14s",
+   "files": [
+    {
+     "name": "take_part01-001.flac",
+     "bytes": 855249,
+     "sha256": "9549b1b6542cefa6a3cc9609812f6101d7b9e0a894d6884cd612fdcf08d78652"
+    }
+   ]
   }
  ]
 }
